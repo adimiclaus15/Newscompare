@@ -1,0 +1,335 @@
+{
+  "_id": "551131810dc80879d075b865970013eb",
+  "_rev": "1-4f39f3b096df55b31994f8716ffcb7f1",
+  "date": "2023-10-25T14:34:50.800089",
+  "body": [
+    {
+      "source": {
+        "id": "P8cZZosB5cLnlC3QoqC8",
+        "url": "https://apnews.com/article/nba-nonbinary-referee-che-flores-1c37885c4fcc560247307568aa4c353a",
+        "domain": "apnews.com",
+        "published_on": "2023-10-23T21:32:53"
+      },
+      "related": [
+        {
+          "id": "eccZZosB5cLnlC3QoqK_",
+          "url": "https://www.bbc.com/sport/live/football/67190730",
+          "domain": "bbc.com",
+          "published_on": "2023-10-23T06:00:00+00:00",
+          "cosine_similarity_score": 0.5153565882106556,
+          "jaccard_similarity_score": 0.05363984674329503
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "N8cZZosB5cLnlC3QoqG9",
+        "url": "https://apnews.com/general-news-7d80708bb7ece1b8774d804fee7103a6",
+        "domain": "apnews.com",
+        "published_on": "2023-10-24T04:05:21"
+      },
+      "related": [
+        {
+          "id": "3scZZosB5cLnlC3Qop6I",
+          "url": "https://www.bbc.com/news/world-middle-east-67201107",
+          "domain": "bbc.com",
+          "published_on": "2023-10-23T21:34:22+00:00",
+          "cosine_similarity_score": 0.5558148299027186,
+          "jaccard_similarity_score": 0.0674157303370787
+        },
+        {
+          "id": "LccZZosB5cLnlC3QoqG9",
+          "url": "https://www.bbc.com/news/live/world-middle-east-67194369",
+          "domain": "bbc.com",
+          "published_on": "2023-10-23T14:00:00+00:00",
+          "cosine_similarity_score": 0.5527333425596638,
+          "jaccard_similarity_score": 0.04751847940865894
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "v8cZZosB5cLnlC3QoqG-",
+        "url": "https://www.bbc.com/sport/american-football/67203225",
+        "domain": "bbc.com",
+        "published_on": "2023-10-24T06:39:38+00:00"
+      },
+      "related": [
+        {
+          "id": "hscZZosB5cLnlC3Qop-z",
+          "url": "https://apnews.com/article/49ers-vikings-78eeaa658ed96d40d354ce71826cf979",
+          "domain": "apnews.com",
+          "published_on": "2023-10-24T03:25:46",
+          "cosine_similarity_score": 0.6936588088912824,
+          "jaccard_similarity_score": 0.12796208530805686
+        },
+        {
+          "id": "e8cZZosB5cLnlC3QoqC8",
+          "url": "https://apnews.com/sports/buffalo-bills-new-england-patriots-9ce4f24a6593ee5416b7e2ee93bd423d",
+          "domain": "apnews.com",
+          "published_on": "2023-10-22T21:26:05",
+          "cosine_similarity_score": 0.656116300445575,
+          "jaccard_similarity_score": 0.05660377358490565
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "GccZZosB5cLnlC3QoqG9",
+        "url": "https://apnews.com/article/lewis-hamilton-disqualified-skid-block-verstappen-37c840fa454aeb374b5e72f926749508",
+        "domain": "apnews.com",
+        "published_on": "2023-10-23T01:31:12"
+      },
+      "related": [
+        {
+          "id": "WMcZZosB5cLnlC3Qop6G",
+          "url": "https://www.bbc.com/sport/formula1/67190650",
+          "domain": "bbc.com",
+          "published_on": "2023-10-23T01:08:52+00:00",
+          "cosine_similarity_score": 0.8174202519998535,
+          "jaccard_similarity_score": 0.15254237288135597
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "78cZZosB5cLnlC3Qop6I",
+        "url": "https://www.bbc.com/news/world-us-canada-67196211",
+        "domain": "bbc.com",
+        "published_on": "2023-10-23T18:55:33+00:00"
+      },
+      "related": [
+        {
+          "id": "V8cZZosB5cLnlC3Qop6G",
+          "url": "https://apnews.com/article/tennessee-officers-shot-nashville-police-chief-son-db83dfaa27512b5ad084c3d8e5ae6c6c",
+          "domain": "apnews.com",
+          "published_on": "2023-10-22T07:14:22",
+          "cosine_similarity_score": 0.7798990139251608,
+          "jaccard_similarity_score": 0.3271889400921659
+        },
+        {
+          "id": "U8cZZosB5cLnlC3Qop-z",
+          "url": "https://apnews.com/article/nashville-tennessee-police-chief-son-shooting-4f53db96f17bcb5114e2327f5e08b2fc",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T17:17:22",
+          "cosine_similarity_score": 0.7292273197088158,
+          "jaccard_similarity_score": 0.16972477064220182
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "accZZosB5cLnlC3Qop-z",
+        "url": "https://www.bbc.com/news/uk-67202275",
+        "domain": "bbc.com",
+        "published_on": "2023-10-23T23:57:38+00:00"
+      },
+      "related": [
+        {
+          "id": "j8cZZosB5cLnlC3QpaJi",
+          "url": "https://apnews.com/general-news-894440a7b7ec6a5ed00fad59c69c5050",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T04:10:10",
+          "cosine_similarity_score": 0.5299359549865397,
+          "jaccard_similarity_score": 0.17391304347826086
+        },
+        {
+          "id": "9scZZosB5cLnlC3QoqC9",
+          "url": "https://apnews.com/article/israel-palestinian-gaza-war-syria-lebanon-hamas-c0e7ec55428fedc97f75bdfdc0c0679a",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T06:38:59",
+          "cosine_similarity_score": 0.6462569754309431,
+          "jaccard_similarity_score": 0.03690036900369009
+        },
+        {
+          "id": "kMcZZosB5cLnlC3Qop6H",
+          "url": "https://apnews.com/article/israel-military-iran-navy-gaza-1a906598be5baccc614897768b1824a8",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T19:38:50",
+          "cosine_similarity_score": 0.620559891020475,
+          "jaccard_similarity_score": 0.03899721448467963
+        },
+        {
+          "id": "EMcZZosB5cLnlC3Qop-I",
+          "url": "https://apnews.com/article/israel-palestinians-global-protests-7c23ec677d36df580d9a79144c56db95",
+          "domain": "apnews.com",
+          "published_on": "2023-10-22T14:11:07",
+          "cosine_similarity_score": 0.5472540249303908,
+          "jaccard_similarity_score": 0.02941176470588236
+        },
+        {
+          "id": "z8cZZosB5cLnlC3QoqC9",
+          "url": "https://apnews.com/article/lebanon-marines-bombing-beirut-1983-hezbollah-israel-hamas-iran-34f61ac47909c52de800dd35b375e782",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T17:26:08",
+          "cosine_similarity_score": 0.563172664965977,
+          "jaccard_similarity_score": 0.027272727272727226
+        },
+        {
+          "id": "aMcZZosB5cLnlC3QoqC8",
+          "url": "https://apnews.com/article/biden-israel-hamas-middle-east-criticism-ea5685fc1ed577d3bf1b5a3aa4acf0db",
+          "domain": "apnews.com",
+          "published_on": "2023-10-22T12:00:07",
+          "cosine_similarity_score": 0.5822534298041959,
+          "jaccard_similarity_score": 0.02148760330578514
+        },
+        {
+          "id": "CccZZosB5cLnlC3Qop-I",
+          "url": "https://apnews.com/article/trump-new-hampshire-filing-8351611af96b54050f1e64d55d8648dc",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T15:23:36",
+          "cosine_similarity_score": 0.5141113475053597,
+          "jaccard_similarity_score": 0.02450980392156865
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "HccZZosB5cLnlC3Qop57",
+        "url": "https://www.bbc.com/sport/baseball/67190822",
+        "domain": "bbc.com",
+        "published_on": "2023-10-24T05:07:05+00:00"
+      },
+      "related": [
+        {
+          "id": "ZscZZosB5cLnlC3QoqC8",
+          "url": "https://apnews.com/article/rangers-astros-world-series-garcia-seager-alcs-316eb9aca784b894094e4260b36dff77",
+          "domain": "apnews.com",
+          "published_on": "2023-10-24T03:37:03",
+          "cosine_similarity_score": 0.7197574273873595,
+          "jaccard_similarity_score": 0.1390476190476191
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "F8cZZosB5cLnlC3Qop-J",
+        "url": "https://www.bbc.com/news/av/uk-scotland-67196072",
+        "domain": "bbc.com",
+        "published_on": "2023-10-23T12:30:54+00:00"
+      },
+      "related": [
+        {
+          "id": "9scZZosB5cLnlC3QoqC9",
+          "url": "https://apnews.com/article/israel-palestinian-gaza-war-syria-lebanon-hamas-c0e7ec55428fedc97f75bdfdc0c0679a",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T06:38:59",
+          "cosine_similarity_score": 0.5751260032052063,
+          "jaccard_similarity_score": 0.038461538461538436
+        },
+        {
+          "id": "48cZZosB5cLnlC3Qop17",
+          "url": "https://apnews.com/article/isreal-palestine-gaza-dreams-war-24f139484879b0f388e864c6463d7e8e",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T17:12:48",
+          "cosine_similarity_score": 0.511713118000037,
+          "jaccard_similarity_score": 0.0461538461538461
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "vMcZZosB5cLnlC3QoqG-",
+        "url": "https://www.bbc.com/sport/articles/c72lvw92gwzo",
+        "domain": "bbc.com",
+        "published_on": "2023-10-23T11:38:07.378000+00:00"
+      },
+      "related": [
+        {
+          "id": "VscZZosB5cLnlC3QoqC8",
+          "url": "https://apnews.com/article/champions-league-manchester-united-bobby-charlton-7065c3cb860da8af2e59a1c5d10dcf5c",
+          "domain": "apnews.com",
+          "published_on": "2023-10-22T11:50:52",
+          "cosine_similarity_score": 0.5207366680054857,
+          "jaccard_similarity_score": 0.13012048192771086
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "j8cZZosB5cLnlC3QpaJi",
+        "url": "https://apnews.com/general-news-894440a7b7ec6a5ed00fad59c69c5050",
+        "domain": "apnews.com",
+        "published_on": "2023-10-23T04:10:10"
+      },
+      "related": [
+        {
+          "id": "3scZZosB5cLnlC3Qop6I",
+          "url": "https://www.bbc.com/news/world-middle-east-67201107",
+          "domain": "bbc.com",
+          "published_on": "2023-10-23T21:34:22+00:00",
+          "cosine_similarity_score": 0.6126242311323734,
+          "jaccard_similarity_score": 0.060702875399361034
+        },
+        {
+          "id": "LccZZosB5cLnlC3QoqG9",
+          "url": "https://www.bbc.com/news/live/world-middle-east-67194369",
+          "domain": "bbc.com",
+          "published_on": "2023-10-23T14:00:00+00:00",
+          "cosine_similarity_score": 0.6049710097378457,
+          "jaccard_similarity_score": 0.04425711275026345
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "y8cZZosB5cLnlC3QpaJi",
+        "url": "https://www.bbc.com/news/av/world-middle-east-67199161",
+        "domain": "bbc.com",
+        "published_on": "2023-10-23T20:51:47+00:00"
+      },
+      "related": [
+        {
+          "id": "9scZZosB5cLnlC3QoqC9",
+          "url": "https://apnews.com/article/israel-palestinian-gaza-war-syria-lebanon-hamas-c0e7ec55428fedc97f75bdfdc0c0679a",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T06:38:59",
+          "cosine_similarity_score": 0.6167363774393768,
+          "jaccard_similarity_score": 0.062385321100917435
+        },
+        {
+          "id": "kMcZZosB5cLnlC3Qop6H",
+          "url": "https://apnews.com/article/israel-military-iran-navy-gaza-1a906598be5baccc614897768b1824a8",
+          "domain": "apnews.com",
+          "published_on": "2023-10-23T19:38:50",
+          "cosine_similarity_score": 0.5088041989049764,
+          "jaccard_similarity_score": 0.06557377049180324
+        },
+        {
+          "id": "EMcZZosB5cLnlC3Qop-I",
+          "url": "https://apnews.com/article/israel-palestinians-global-protests-7c23ec677d36df580d9a79144c56db95",
+          "domain": "apnews.com",
+          "published_on": "2023-10-22T14:11:07",
+          "cosine_similarity_score": 0.5320826030277398,
+          "jaccard_similarity_score": 0.04424778761061943
+        },
+        {
+          "id": "aMcZZosB5cLnlC3QoqC8",
+          "url": "https://apnews.com/article/biden-israel-hamas-middle-east-criticism-ea5685fc1ed577d3bf1b5a3aa4acf0db",
+          "domain": "apnews.com",
+          "published_on": "2023-10-22T12:00:07",
+          "cosine_similarity_score": 0.5199049039594463,
+          "jaccard_similarity_score": 0.03420195439739415
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "0scZZosB5cLnlC3QpaJj",
+        "url": "https://apnews.com/article/south-africa-england-racism-mbonambi-curry-0878cede4126b283f800a101b75bfdc7",
+        "domain": "apnews.com",
+        "published_on": "2023-10-23T10:51:53"
+      },
+      "related": [
+        {
+          "id": "-8cZZosB5cLnlC3QpaJj",
+          "url": "https://www.bbc.com/sport/rugby-union/67192409",
+          "domain": "bbc.com",
+          "published_on": "2023-10-23T17:43:53+00:00",
+          "cosine_similarity_score": 0.7470261409705871,
+          "jaccard_similarity_score": 0.211864406779661
+        }
+      ]
+    }
+  ]
+}

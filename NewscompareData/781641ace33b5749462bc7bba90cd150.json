@@ -1,0 +1,3771 @@
+{
+  "_id": "781641ace33b5749462bc7bba90cd150",
+  "_rev": "1-6e32a47b58203113a6f797da4575a4c7",
+  "date": "2023-10-29T13:09:55.756499",
+  "body": [
+    {
+      "source": {
+        "id": "tni3dIsBbDKhMTf1mRm1",
+        "url": "https://www.aljazeera.com/sports/2023/10/27/south-africa-break-pakistan-hearts-with-one-wicket-cricket-world-cup-win",
+        "domain": "aljazeera.com",
+        "published_on": "2023-10-27T18:25:47"
+      },
+      "related": [
+        {
+          "id": "lXjedIsBbDKhMTf1sSRG",
+          "url": "https://www.reuters.com/sports/cricket/markram-fires-south-africa-edge-pakistan-world-cup-thriller-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T18:07:00+00:00",
+          "cosine_similarity_score": 0.6864631569411102,
+          "jaccard_similarity_score": 0.5539568345323741
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "uHi3dIsBbDKhMTf1txkB",
+        "url": "https://www.aljazeera.com/news/2023/10/27/hamas-rejects-israeli-claim-over-installations-under-al-shifa-hospital",
+        "domain": "aljazeera.com",
+        "published_on": "2023-10-27T20:14:01"
+      },
+      "related": [
+        {
+          "id": "GXjBdIsBbDKhMTf1UhwH",
+          "url": "https://www.theguardian.com/world/live/2023/oct/27/israel-hamas-war-live-us-strikes-iran-linked-targets-in-syria-eu-calls-for-humanitarian-pauses-in-gaza",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-28T05:10:01+00:00",
+          "cosine_similarity_score": 0.5038577908011296,
+          "jaccard_similarity_score": 0.10772163965681603
+        },
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5065281942699246,
+          "jaccard_similarity_score": 0.07495195387572073
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "v3i4dIsBbDKhMTf1Hxle",
+        "url": "https://www.aljazeera.com/news/2023/10/27/israel-intensifies-gaza-bombardment-as-internet-and-phone-services-go-down",
+        "domain": "aljazeera.com",
+        "published_on": "2023-10-27T18:25:46"
+      },
+      "related": [
+        {
+          "id": "GXjBdIsBbDKhMTf1UhwH",
+          "url": "https://www.theguardian.com/world/live/2023/oct/27/israel-hamas-war-live-us-strikes-iran-linked-targets-in-syria-eu-calls-for-humanitarian-pauses-in-gaza",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-28T05:10:01+00:00",
+          "cosine_similarity_score": 0.5758068732147817,
+          "jaccard_similarity_score": 0.12850241545893715
+        },
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5312406739337538,
+          "jaccard_similarity_score": 0.08785529715762275
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "wXi4dIsBbDKhMTf1QBk8",
+        "url": "https://www.aljazeera.com/news/2023/10/27/chinas-jet-comes-dangerously-close-to-us-bomber-over-south-china-sea-us",
+        "domain": "aljazeera.com",
+        "published_on": "2023-10-27T12:47:26"
+      },
+      "related": [
+        {
+          "id": "lnjedIsBbDKhMTf1sST9",
+          "url": "https://apnews.com/article/us-south-china-sea-military-jet-bomber-0af848de95db435276e7642a4a401939",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:26:21",
+          "cosine_similarity_score": 0.6526557348733395,
+          "jaccard_similarity_score": 0.5511551155115512
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "z3i4dIsBbDKhMTf1nhk8",
+        "url": "https://apnews.com/article/lgbtq-arrests-homosexuality-nigeria-gay-rights-1f05b27f6cd2bb5bfb2319c90730f444",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T06:09:28"
+      },
+      "related": [
+        {
+          "id": "H3jEdIsBbDKhMTf1ER1M",
+          "url": "https://www.nbcnews.com/nbc-out/out-news/mass-arrests-target-lgbtq-people-nigeria-abuses-are-ignored-activists-rcna122471",
+          "domain": "nbcnews.com",
+          "published_on": "2023-10-27T14:30:47+00:00",
+          "cosine_similarity_score": 0.999188128608429,
+          "jaccard_similarity_score": 0.9686684073107049
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "4Hi5dIsBbDKhMTf1KRl8",
+        "url": "https://apnews.com/article/house-speaker-mike-johnson-christian-right-louisiana-9407f1e4b4c588f27f9510dd47c94fe8",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T15:07:32"
+      },
+      "related": [
+        {
+          "id": "v3jAdIsBbDKhMTf1dhv3",
+          "url": "https://www.pbs.org/newshour/politics/evangelical-conservatives-cheer-one-of-their-own-as-mike-johnson-assumes-congress-most-powerful-seat",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T20:38:15-04:00",
+          "cosine_similarity_score": 0.9863697230660672,
+          "jaccard_similarity_score": 0.9411764705882353
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "_ni5dIsBbDKhMTf1xRnI",
+        "url": "https://www.aljazeera.com/news/2023/10/27/hamas-cannot-free-captives-until-israel-gaza-truce-official",
+        "domain": "aljazeera.com",
+        "published_on": "2023-10-27T08:29:33"
+      },
+      "related": [
+        {
+          "id": "RXiKbYsBbDKhMTf13heF",
+          "url": "https://www.theguardian.com/world/live/2023/oct/26/israel-hamas-war-live-eu-leaders-to-call-for-gaza-humanitarian-pause-biden-redoubles-efforts-on-two-state-solution",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-26T19:51:21+00:00",
+          "cosine_similarity_score": 0.5034823068748819,
+          "jaccard_similarity_score": 0.10810810810810811
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "B3i5dIsBbDKhMTf16hpd",
+        "url": "https://apnews.com/article/maine-shooting-lewiston-deaf-community-a6bfb5f48e45fd7a20317010bf6e18e8",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T20:58:37"
+      },
+      "related": [
+        {
+          "id": "_Xi5dIsBbDKhMTf1xBk9",
+          "url": "https://www.cbsnews.com/news/maine-shooting-victims-deaf-community/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-27T22:13:00-04:00",
+          "cosine_similarity_score": 0.9052917437576818,
+          "jaccard_similarity_score": 0.6527777777777778
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "CHi5dIsBbDKhMTf17hpX",
+        "url": "https://www.aljazeera.com/news/2023/10/27/israel-conducts-second-ground-raid-into-northern-gaza-with-air-support",
+        "domain": "aljazeera.com",
+        "published_on": "2023-10-27T09:38:14"
+      },
+      "related": [
+        {
+          "id": "-nh4bYsBbDKhMTf1txKC",
+          "url": "https://apnews.com/article/israel-palestinians-gaza-hamas-raid-2964c54724e0e80382dd29756b3427bf",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T05:41:15",
+          "cosine_similarity_score": 0.5229441568343489,
+          "jaccard_similarity_score": 0.21354933726067749
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "DHi5dIsBbDKhMTf1_Bqw",
+        "url": "https://www.bbc.com/news/world-middle-east-67245797",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T22:50:37+00:00"
+      },
+      "related": [
+        {
+          "id": "5XdFaosBbDKhMTf1tt_f",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-on-day-19-of-the-israel-hamas-war",
+          "domain": "pbs.org",
+          "published_on": "2023-10-25T10:02:26-04:00",
+          "cosine_similarity_score": 0.5675385950333323,
+          "jaccard_similarity_score": 0.08823529411764708
+        },
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5644299291529485,
+          "jaccard_similarity_score": 0.08877615726062138
+        },
+        {
+          "id": "5XdFaosBbDKhMTf1tt1K",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-some-hostages-are-released",
+          "domain": "pbs.org",
+          "published_on": "2023-10-24T09:57:30-04:00",
+          "cosine_similarity_score": 0.5620740865884314,
+          "jaccard_similarity_score": 0.08731808731808732
+        },
+        {
+          "id": "63dFaosBbDKhMTf1tt61",
+          "url": "https://www.pbs.org/newshour/world/whats-happening-in-the-israel-hamas-war-as-possible-gaza-ground-invasion-looms",
+          "domain": "pbs.org",
+          "published_on": "2023-10-23T10:22:59-04:00",
+          "cosine_similarity_score": 0.5665535181998602,
+          "jaccard_similarity_score": 0.09408410548823953
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "DXi5dIsBbDKhMTf1_Rpe",
+        "url": "https://www.aljazeera.com/news/2023/10/27/israeli-forces-kill-four-palestinians-in-occupied-west-bank-wafa",
+        "domain": "aljazeera.com",
+        "published_on": "2023-10-27T10:11:36"
+      },
+      "related": [
+        {
+          "id": "JHdFaosBbDKhMTf1u-ka",
+          "url": "https://www.theguardian.com/world/live/2023/oct/24/israel-hamas-war-live-news-conflict-biden-netanyahu-aid-gaza-hostages-latest-updates",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-25T03:58:36+00:00",
+          "cosine_similarity_score": 0.5078395844772063,
+          "jaccard_similarity_score": 0.09491525423728808
+        },
+        {
+          "id": "5XdFaosBbDKhMTf1tt_f",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-on-day-19-of-the-israel-hamas-war",
+          "domain": "pbs.org",
+          "published_on": "2023-10-25T10:02:26-04:00",
+          "cosine_similarity_score": 0.5153354653788093,
+          "jaccard_similarity_score": 0.06140963014654566
+        },
+        {
+          "id": "33g1eIsBbDKhMTf14SrZ",
+          "url": "https://apnews.com/article/israel-hamas-war-live-updates-10-28-2023-3348f0544aa6d66b280c8cab1637a3db",
+          "domain": "apnews.com",
+          "published_on": "2023-10-28T06:44:46",
+          "cosine_similarity_score": 0.5224274249440538,
+          "jaccard_similarity_score": 0.08704663212435237
+        },
+        {
+          "id": "5XdFaosBbDKhMTf1tt1K",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-some-hostages-are-released",
+          "domain": "pbs.org",
+          "published_on": "2023-10-24T09:57:30-04:00",
+          "cosine_similarity_score": 0.5325009985112197,
+          "jaccard_similarity_score": 0.06327272727272726
+        },
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5288647876812886,
+          "jaccard_similarity_score": 0.06340819022457067
+        },
+        {
+          "id": "EHgyeIsBbDKhMTf1BSqk",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-idf-expands-its-ground-operation",
+          "domain": "pbs.org",
+          "published_on": "2023-10-28T12:37:30-04:00",
+          "cosine_similarity_score": 0.5034822309429988,
+          "jaccard_similarity_score": 0.08447729672650472
+        },
+        {
+          "id": "63dFaosBbDKhMTf1tt61",
+          "url": "https://www.pbs.org/newshour/world/whats-happening-in-the-israel-hamas-war-as-possible-gaza-ground-invasion-looms",
+          "domain": "pbs.org",
+          "published_on": "2023-10-23T10:22:59-04:00",
+          "cosine_similarity_score": 0.5060100234405498,
+          "jaccard_similarity_score": 0.06329113924050633
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "QHi7dIsBbDKhMTf1FRrx",
+        "url": "https://www.dw.com/en/ftxs-bankman-fried-acknowledges-mistakes-denies-fraud/a-67237954",
+        "domain": "dw.com",
+        "published_on": "2023-10-27T16:20:20.359000+00:00"
+      },
+      "related": [
+        {
+          "id": "8XjcdIsBbDKhMTf1XiNI",
+          "url": "https://www.reuters.com/legal/sam-bankman-fried-jury-hear-ftx-founders-testimony-fraud-trial-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T22:15:05+00:00",
+          "cosine_similarity_score": 0.5323803825871652,
+          "jaccard_similarity_score": 0.1917808219178082
+        },
+        {
+          "id": "7njfdIsBbDKhMTf17iSl",
+          "url": "https://www.theguardian.com/business/live/2023/oct/27/sam-bankman-fried-testify-ftx-trial-live",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T21:55:10+00:00",
+          "cosine_similarity_score": 0.5279531978920017,
+          "jaccard_similarity_score": 0.08386508659981773
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "Sni7dIsBbDKhMTf1RBrY",
+        "url": "https://www.dw.com/en/spanish-clergy-sexually-abused-200000-children-report/a-67239347",
+        "domain": "dw.com",
+        "published_on": "2023-10-27T19:02:31.371000+00:00"
+      },
+      "related": [
+        {
+          "id": "uXi3dIsBbDKhMTf1wxnD",
+          "url": "https://www.aljazeera.com/news/2023/10/27/spanish-clergy-sexually-abused-more-than-200000-children-commission-finds",
+          "domain": "aljazeera.com",
+          "published_on": "2023-10-27T20:27:43",
+          "cosine_similarity_score": 0.550980957690603,
+          "jaccard_similarity_score": 0.271978021978022
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "bni7dIsBbDKhMTf13Rr_",
+        "url": "https://www.bbc.com/news/uk-england-manchester-67245144",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T17:56:34+00:00"
+      },
+      "related": [
+        {
+          "id": "r3jAdIsBbDKhMTf1UhtJ",
+          "url": "https://news.sky.com/story/teenager-charged-over-vile-sir-bobby-charlton-chants-at-manchester-city-match-12994342",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T19:28:00+00:00",
+          "cosine_similarity_score": 0.5347232756688232,
+          "jaccard_similarity_score": 0.2529182879377432
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "sni9dIsBbDKhMTf1SBo9",
+        "url": "https://www.dw.com/en/us-strikes-iran-linked-sites-in-syria/a-67228859",
+        "domain": "dw.com",
+        "published_on": "2023-10-27T03:36:57.433000+00:00"
+      },
+      "related": [
+        {
+          "id": "A3jGdIsBbDKhMTf1YR5R",
+          "url": "https://news.sky.com/story/us-launches-retaliatory-strikes-on-iran-linked-munition-storage-sites-in-syria-12993637",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T03:18:00+00:00",
+          "cosine_similarity_score": 0.6497221486367343,
+          "jaccard_similarity_score": 0.3014084507042254
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "wHi9dIsBbDKhMTf1ehqb",
+        "url": "https://apnews.com/article/memphis-jail-death-deputies-charges-20e1085a4c1bd7a8acf24bb1e571b47b",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T16:39:51"
+      },
+      "related": [
+        {
+          "id": "YHi_dIsBbDKhMTf1bBvw",
+          "url": "https://www.pbs.org/newshour/nation/6-of-9-deputies-charged-in-death-of-man-beaten-in-memphis-jail-plead-not-guilty",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T15:18:17-04:00",
+          "cosine_similarity_score": 0.9825350853477922,
+          "jaccard_similarity_score": 0.9169329073482428
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "zXi9dIsBbDKhMTf1oBpd",
+        "url": "https://www.bbc.com/news/uk-england-leicestershire-67242243",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T16:24:27+00:00"
+      },
+      "related": [
+        {
+          "id": "enjedIsBbDKhMTf1WyTV",
+          "url": "https://www.theguardian.com/world/2023/oct/27/captain-of-football-team-thai-cave-rescue-suicide-at-uk-school-coroner-rules",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T18:13:57+00:00",
+          "cosine_similarity_score": 0.6023567587430986,
+          "jaccard_similarity_score": 0.4192439862542955
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "_Xi-dIsBbDKhMTf1Nxr0",
+        "url": "https://www.bbc.com/news/av/uk-england-south-yorkshire-67241938",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T16:38:43+00:00"
+      },
+      "related": [
+        {
+          "id": "kHjtdIsBbDKhMTf18SfB",
+          "url": "https://www.thesun.co.uk/news/24541521/prison-nurse-inmate-lover-drug-smuggling-network-jail/",
+          "domain": "thesun.co.uk",
+          "published_on": "2023-10-27T14:29:27+00:00",
+          "cosine_similarity_score": 0.6205146873926213,
+          "jaccard_similarity_score": 0.11991434689507496
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "FHi-dIsBbDKhMTf1jRv1",
+        "url": "https://www.bbc.com/news/uk-scotland-67241312",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T14:58:42+00:00"
+      },
+      "related": [
+        {
+          "id": "zXjvdIsBbDKhMTf1vydd",
+          "url": "https://www.thesun.co.uk/news/24550965/elon-musk-brands-humza-yousaf-blatant-racist/",
+          "domain": "thesun.co.uk",
+          "published_on": "2023-10-27T09:15:27+00:00",
+          "cosine_similarity_score": 0.6145308407768135,
+          "jaccard_similarity_score": 0.37002341920374704
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "Gni-dIsBbDKhMTf1mxv7",
+        "url": "https://www.cbsnews.com/news/american-economy-household-spending-higher-than-income-ap-norc-poll/",
+        "domain": "cbsnews.com",
+        "published_on": "2023-10-27T09:55:00-04:00"
+      },
+      "related": [
+        {
+          "id": "ZHjadIsBbDKhMTf1KiNq",
+          "url": "https://apnews.com/article/inflation-debt-poll-personal-finance-economy-dd4c88e2076d1fd3f85c51fb8992583b",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:08:40",
+          "cosine_similarity_score": 0.8781180081722554,
+          "jaccard_similarity_score": 0.6521739130434783
+        },
+        {
+          "id": "_XjDdIsBbDKhMTf13Ryv",
+          "url": "https://www.pbs.org/newshour/economy/ap-norc-poll-many-americans-say-their-expenses-are-outpacing-earnings-this-year",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T11:03:52-04:00",
+          "cosine_similarity_score": 0.716509950059538,
+          "jaccard_similarity_score": 0.6488970588235294
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "H3i-dIsBbDKhMTf1qBva",
+        "url": "https://www.cbsnews.com/news/woman-sues-fertility-doctor-own-sperm-impregnate-her-34-years-go-sharon-hayes-brianna-david-claypool/",
+        "domain": "cbsnews.com",
+        "published_on": "2023-10-27T04:12:05-04:00"
+      },
+      "related": [
+        {
+          "id": "_XjcdIsBbDKhMTf1iCNJ",
+          "url": "https://apnews.com/article/fertility-fraud-lawsuit-dna-sperm-donor-e5b4fc6dcdff9bf4dbfb127c6834d668",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T23:36:44",
+          "cosine_similarity_score": 0.9510181018036062,
+          "jaccard_similarity_score": 0.8391608391608392
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "JXi-dIsBbDKhMTf1uxt0",
+        "url": "https://www.cbsnews.com/news/2-bodies-found-in-vermont-were-missing-massachusetts-men-and-were-shot-in-the-head-police-say/",
+        "domain": "cbsnews.com",
+        "published_on": "2023-10-27T04:40:33-04:00"
+      },
+      "related": [
+        {
+          "id": "p3jJdIsBbDKhMTf1FR4O",
+          "url": "https://apnews.com/article/missing-massachusetts-men-bodies-found-vermont-shot-91f18d2cc2c5335199753a07d6760c4b",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T23:00:52",
+          "cosine_similarity_score": 0.8429311878472409,
+          "jaccard_similarity_score": 0.5912408759124088
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "LHi-dIsBbDKhMTf1yRu0",
+        "url": "https://www.cbsnews.com/news/rebecca-auborn-indicted-serial-killings-allegedly-meeting-men-for-sex-columbus-ohio/",
+        "domain": "cbsnews.com",
+        "published_on": "2023-10-27T06:20:00-04:00"
+      },
+      "related": [
+        {
+          "id": "cHi7dIsBbDKhMTf16Rr1",
+          "url": "https://apnews.com/article/ohio-serial-killer-woman-drugs-99c8b760a225caa90c9cff733f22b7b5",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T14:10:11",
+          "cosine_similarity_score": 0.737026922544828,
+          "jaccard_similarity_score": 0.5024630541871922
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "THi_dIsBbDKhMTf1MBvy",
+        "url": "https://apnews.com/article/abortion-russia-women-rights-feminism-fc5eab75b5e3d028aeb1f70ec8a9a2b1",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T04:47:23"
+      },
+      "related": [
+        {
+          "id": "nHjAdIsBbDKhMTf1HBuG",
+          "url": "https://www.pbs.org/newshour/politics/abortion-restrictions-in-russia-spark-outrage-as-the-country-takes-a-conservative-turn",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T18:51:33-04:00",
+          "cosine_similarity_score": 0.9763281904449572,
+          "jaccard_similarity_score": 0.9335443037974683
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "YHi_dIsBbDKhMTf1bBvw",
+        "url": "https://www.pbs.org/newshour/nation/6-of-9-deputies-charged-in-death-of-man-beaten-in-memphis-jail-plead-not-guilty",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T15:18:17-04:00"
+      },
+      "related": [
+        {
+          "id": "wHi9dIsBbDKhMTf1ehqb",
+          "url": "https://apnews.com/article/memphis-jail-death-deputies-charges-20e1085a4c1bd7a8acf24bb1e571b47b",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T16:39:51",
+          "cosine_similarity_score": 0.9825350853477922,
+          "jaccard_similarity_score": 0.9169329073482428
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "Z3i_dIsBbDKhMTf1fRvS",
+        "url": "https://www.pbs.org/newshour/economy/u-s-consumers-keep-spending-even-in-the-face-of-persistent-inflation-and-high-interest-rates",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T16:23:03-04:00"
+      },
+      "related": [
+        {
+          "id": "AXjcdIsBbDKhMTf1lSRj",
+          "url": "https://apnews.com/article/inflation-prices-federal-reserve-rates-economy-spending-657deb16464e6da9512291822839b342",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T12:42:09",
+          "cosine_similarity_score": 0.790408600613017,
+          "jaccard_similarity_score": 0.8935483870967742
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "bHi_dIsBbDKhMTf1kxtY",
+        "url": "https://www.pbs.org/newshour/politics/un-general-assembly-calls-for-humanitarian-truce-in-gaza-leading-to-halt-in-israel-hamas-war",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T16:31:51-04:00"
+      },
+      "related": [
+        {
+          "id": "MHjHdIsBbDKhMTf1Ex5H",
+          "url": "https://apnews.com/article/un-resolution-vote-israel-hamas-gaza-truce-7eec00b0e28ef2036636b166b48ca030",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T17:36:42",
+          "cosine_similarity_score": 0.975867660456648,
+          "jaccard_similarity_score": 0.9108433734939759
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "bni_dIsBbDKhMTf1mhsU",
+        "url": "https://www.bbc.com/news/uk-england-somerset-67238445",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T15:03:27+00:00"
+      },
+      "related": [
+        {
+          "id": "UHjHdIsBbDKhMTf1mB44",
+          "url": "https://news.sky.com/story/joshua-hunt-man-who-terrified-somerset-drivers-while-writhing-around-in-gimp-suit-found-guilty-of-public-order-offences-12993852",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T10:53:00+00:00",
+          "cosine_similarity_score": 0.7383241208943206,
+          "jaccard_similarity_score": 0.5222772277227723
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "d3i_dIsBbDKhMTf1uBuR",
+        "url": "https://www.pbs.org/newshour/nation/maine-officials-lift-shelter-in-place-order-as-search-for-mass-shooting-suspect-continues",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T18:25:27-04:00"
+      },
+      "related": [
+        {
+          "id": "YHjHdIsBbDKhMTf13h7J",
+          "url": "https://apnews.com/article/maine-shooting-lewiston-fed5ab0aaee9d7d4c0f0fccb3d301bb7",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T05:02:52",
+          "cosine_similarity_score": 0.7184105605548726,
+          "jaccard_similarity_score": 0.41654778887303856
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "eXi_dIsBbDKhMTf1wBua",
+        "url": "https://www.bbc.com/news/uk-england-merseyside-67240839",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T13:40:00+00:00"
+      },
+      "related": [
+        {
+          "id": "iHjIdIsBbDKhMTf1lB4S",
+          "url": "https://news.sky.com/story/jessica-baker-funeral-takes-place-for-warm-hearted-teenager-who-died-after-school-bus-overturned-12994010",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T13:54:00+00:00",
+          "cosine_similarity_score": 0.5275849365931066,
+          "jaccard_similarity_score": 0.3226744186046512
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "l3jAdIsBbDKhMTf1Dxu-",
+        "url": "https://news.sky.com/story/oleg-tsaryov-pro-russia-former-ukrainian-politician-shot-and-wounded-in-crimea-attack-12994414",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T20:27:00+00:00"
+      },
+      "related": [
+        {
+          "id": "eXjndIsBbDKhMTf1Ciat",
+          "url": "https://www.reuters.com/world/europe/ukrainian-pro-russian-politician-tsaryov-intensive-care-after-being-shot-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T18:59:10+00:00",
+          "cosine_similarity_score": 0.6203086132662036,
+          "jaccard_similarity_score": 0.4538258575197889
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "nHjAdIsBbDKhMTf1HBuG",
+        "url": "https://www.pbs.org/newshour/politics/abortion-restrictions-in-russia-spark-outrage-as-the-country-takes-a-conservative-turn",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T18:51:33-04:00"
+      },
+      "related": [
+        {
+          "id": "THi_dIsBbDKhMTf1MBvy",
+          "url": "https://apnews.com/article/abortion-russia-women-rights-feminism-fc5eab75b5e3d028aeb1f70ec8a9a2b1",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:47:23",
+          "cosine_similarity_score": 0.9763281904449559,
+          "jaccard_similarity_score": 0.9335443037974683
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "sXjAdIsBbDKhMTf1VxvJ",
+        "url": "https://www.cbsnews.com/news/ukraine-russia-war-us-says-russian-soldiers-executed-refuse-to-fight/",
+        "domain": "cbsnews.com",
+        "published_on": "2023-10-27T11:26:00-04:00"
+      },
+      "related": [
+        {
+          "id": "anjXdIsBbDKhMTf1JyLc",
+          "url": "https://apnews.com/article/russia-ukraine-executions-soldiers-white-house-8b36f37068f3d0d1dfcb27e924b459c3",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T20:30:15",
+          "cosine_similarity_score": 0.7986168029950608,
+          "jaccard_similarity_score": 0.6006191950464397
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "s3jAdIsBbDKhMTf1Xxuh",
+        "url": "https://www.pbs.org/newshour/politics/donald-trump-is-set-to-testify-nov-6-in-civil-fraud-trial-ivanka-trump-also-called-on-to-testify",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T18:58:01-04:00"
+      },
+      "related": [
+        {
+          "id": "xXjUdIsBbDKhMTf17yHq",
+          "url": "https://apnews.com/article/donald-trump-fraud-lawsuit-trial-ivanka-trump-testimony-c7018a92f3a2cb2496a55ad1cacf2412",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:12:03",
+          "cosine_similarity_score": 0.9901158377253613,
+          "jaccard_similarity_score": 0.9053254437869822
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "yXjAdIsBbDKhMTf1jRvv",
+        "url": "https://www.pbs.org/newshour/world/former-premier-li-keqiang-once-considered-a-contender-to-lead-chinas-communist-party-dies-at-68",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T12:11:38-04:00"
+      },
+      "related": [
+        {
+          "id": "gHjTdIsBbDKhMTf1-CER",
+          "url": "https://apnews.com/article/china-former-premier-li-keqiang-died-537e0dbbc2a4023915cb428f44540468",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T00:47:17",
+          "cosine_similarity_score": 0.9554412002840778,
+          "jaccard_similarity_score": 0.866779089376054
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "0XjAdIsBbDKhMTf1pRs_",
+        "url": "https://www.nbcnews.com/news/world/china-li-keqiang-dead-rcna122429",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T02:41:52+00:00"
+      },
+      "related": [
+        {
+          "id": "gHjTdIsBbDKhMTf1-CER",
+          "url": "https://apnews.com/article/china-former-premier-li-keqiang-died-537e0dbbc2a4023915cb428f44540468",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T00:47:17",
+          "cosine_similarity_score": 0.8819662979012163,
+          "jaccard_similarity_score": 0.5735567970204842
+        },
+        {
+          "id": "yXjAdIsBbDKhMTf1jRvv",
+          "url": "https://www.pbs.org/newshour/world/former-premier-li-keqiang-once-considered-a-contender-to-lead-chinas-communist-party-dies-at-68",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T12:11:38-04:00",
+          "cosine_similarity_score": 0.8374833272432964,
+          "jaccard_similarity_score": 0.5125208681135225
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "53jAdIsBbDKhMTf14RuJ",
+        "url": "https://www.cbsnews.com/news/elon-musk-twitter-x-one-year-after-acquisition/",
+        "domain": "cbsnews.com",
+        "published_on": "2023-10-27T15:22:00-04:00"
+      },
+      "related": [
+        {
+          "id": "snjUdIsBbDKhMTf1oSHs",
+          "url": "https://apnews.com/article/twitter-x-elon-musk-takeover-anniversary-ac2cb6419d93d64086cc9ad980c5a57a",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:06:03",
+          "cosine_similarity_score": 0.878149837457226,
+          "jaccard_similarity_score": 0.7267206477732793
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "_HjBdIsBbDKhMTf1ERvD",
+        "url": "https://news.sky.com/story/mindless-josh-redfern-jailed-for-stealing-bus-in-nottingham-and-taking-it-on-10-mile-joyride-12994116",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T16:18:00+00:00"
+      },
+      "related": [
+        {
+          "id": "tXjjdIsBbDKhMTf1MiU9",
+          "url": "https://www.bbc.com/news/uk-england-nottinghamshire-67238044",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T12:54:24+00:00",
+          "cosine_similarity_score": 0.5318877662654633,
+          "jaccard_similarity_score": 0.3876651982378855
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "Y3jCdIsBbDKhMTf1LRza",
+        "url": "https://www.cbsnews.com/news/missing-sailor-found-alive-life-raft-washington-coast-coast-guard/",
+        "domain": "cbsnews.com",
+        "published_on": "2023-10-27T14:46:00-04:00"
+      },
+      "related": [
+        {
+          "id": "xHjfdIsBbDKhMTf1WyTj",
+          "url": "https://www.bbc.com/news/world-us-canada-67246163",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T23:08:45+00:00",
+          "cosine_similarity_score": 0.5061710561904109,
+          "jaccard_similarity_score": 0.375
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "g3jCdIsBbDKhMTf1lhz1",
+        "url": "https://apnews.com/article/george-santos-fraud-arraignment-17e24ff38501a80c09e0ec517129d760",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T04:24:10"
+      },
+      "related": [
+        {
+          "id": "RXjEdIsBbDKhMTf1XB1Q",
+          "url": "https://www.pbs.org/newshour/politics/george-santos-pleads-not-guilty-to-fraud-charges-in-new-york",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T13:58:49-04:00",
+          "cosine_similarity_score": 0.9921449450723141,
+          "jaccard_similarity_score": 0.9833887043189369
+        },
+        {
+          "id": "B3jcdIsBbDKhMTf1riTj",
+          "url": "https://www.theguardian.com/us-news/2023/oct/27/george-santos-pleads-not-guilty-fraud-charges-new-york",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T16:42:37+00:00",
+          "cosine_similarity_score": 0.8219230904930863,
+          "jaccard_similarity_score": 0.6888888888888889
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "u3jDdIsBbDKhMTf1RBxN",
+        "url": "https://www.cbsnews.com/news/richard-moll-star-of-night-court-dies-age-80/",
+        "domain": "cbsnews.com",
+        "published_on": "2023-10-27T19:10:28-04:00"
+      },
+      "related": [
+        {
+          "id": "hnjIdIsBbDKhMTf1jB7Y",
+          "url": "https://apnews.com/article/richard-moll-dies-night-court-e5f386ab083235a50db814bdaf2ba194",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T22:20:35",
+          "cosine_similarity_score": 0.815562845370207,
+          "jaccard_similarity_score": 0.7142857142857143
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "znjDdIsBbDKhMTf1dBw9",
+        "url": "https://www.nbcnews.com/news/us-news/teen-acquaintance-charged-murder-killing-philadelphia-journalist-rcna122457",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T11:58:45+00:00"
+      },
+      "related": [
+        {
+          "id": "_njVdIsBbDKhMTf15iGX",
+          "url": "https://apnews.com/article/philadelphia-journalist-killed-suspect-charged-d92bedf00a2815b587ee27845e0f4b7e",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T15:32:19",
+          "cosine_similarity_score": 0.9911608491598258,
+          "jaccard_similarity_score": 0.9702970297029703
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "43jDdIsBbDKhMTf1qhx1",
+        "url": "https://www.pbs.org/newshour/world/israel-to-begin-long-ground-war-in-gaza-soon-aims-to-destroy-hamas-and-its-tunnels",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T10:25:55-04:00"
+      },
+      "related": [
+        {
+          "id": "UHjQdIsBbDKhMTf1NCCp",
+          "url": "https://apnews.com/article/israel-palestinians-gaza-airstrikes-region-e41b5b12e8cdf9db62395314d9a782b6",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T06:40:22",
+          "cosine_similarity_score": 0.8607488149339211,
+          "jaccard_similarity_score": 0.5225806451612903
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "73jDdIsBbDKhMTf1vhx0",
+        "url": "https://www.pbs.org/newshour/politics/minnesota-rep-dean-phillips-to-challenge-biden-in-democratic-primary",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T10:35:46-04:00"
+      },
+      "related": [
+        {
+          "id": "EXjWdIsBbDKhMTf1IyK0",
+          "url": "https://apnews.com/article/phillips-2024-presidential-campaign-biden-democratic-challenger-0f38b80ba00566014a4d59fdb516d52c",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:16:50",
+          "cosine_similarity_score": 0.8627422899940654,
+          "jaccard_similarity_score": 0.5557377049180328
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "8njDdIsBbDKhMTf1xByG",
+        "url": "https://www.nbcnews.com/news/sports/nhl-suspends-ottawas-shane-pinto-41-games-gambling-rcna122452",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T11:34:09+00:00"
+      },
+      "related": [
+        {
+          "id": "BnjLdIsBbDKhMTf1Eh9f",
+          "url": "https://apnews.com/article/senators-shane-pinto-suspended-gambling-09cbedc1d9257fede6ec59251e76a914",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T16:19:50",
+          "cosine_similarity_score": 0.9892179103514596,
+          "jaccard_similarity_score": 0.94140625
+        },
+        {
+          "id": "J3iKbYsBbDKhMTf1PBdr",
+          "url": "https://www.theguardian.com/sport/2023/oct/26/shane-pinto-gambling-suspension-ottawa-senators",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-26T17:23:46+00:00",
+          "cosine_similarity_score": 0.8528559832378612,
+          "jaccard_similarity_score": 0.6174242424242424
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "9XjDdIsBbDKhMTf1xxzq",
+        "url": "https://www.pbs.org/newshour/world/desperation-grows-in-mexico-following-hurricane-otis-amid-slow-government-response",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T10:48:11-04:00"
+      },
+      "related": [
+        {
+          "id": "BXh4bYsBbDKhMTf17BMs",
+          "url": "https://apnews.com/article/mexico-hurricane-otis-acapulco-17b4b34147a2fe5acbe980a0b5b06aa7",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T05:15:28",
+          "cosine_similarity_score": 0.6955641509213208,
+          "jaccard_similarity_score": 0.4930875576036866
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "-njDdIsBbDKhMTf10xxj",
+        "url": "https://www.nbcnews.com/politics/2024-election/former-arizona-gop-senate-candidate-blake-masters-running-congress-rcna122463",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T13:07:11+00:00"
+      },
+      "related": [
+        {
+          "id": "C3jcdIsBbDKhMTf1vyQJ",
+          "url": "https://apnews.com/article/arizona-blake-masters-5e8117534aa15aef97fc967dc88cbf60",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T22:19:34",
+          "cosine_similarity_score": 0.9929686212695953,
+          "jaccard_similarity_score": 0.908256880733945
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "_XjDdIsBbDKhMTf13Ryv",
+        "url": "https://www.pbs.org/newshour/economy/ap-norc-poll-many-americans-say-their-expenses-are-outpacing-earnings-this-year",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T11:03:52-04:00"
+      },
+      "related": [
+        {
+          "id": "ZHjadIsBbDKhMTf1KiNq",
+          "url": "https://apnews.com/article/inflation-debt-poll-personal-finance-economy-dd4c88e2076d1fd3f85c51fb8992583b",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:08:40",
+          "cosine_similarity_score": 0.7820208570565921,
+          "jaccard_similarity_score": 0.8163716814159292
+        },
+        {
+          "id": "Gni-dIsBbDKhMTf1mxv7",
+          "url": "https://www.cbsnews.com/news/american-economy-household-spending-higher-than-income-ap-norc-poll/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-27T09:55:00-04:00",
+          "cosine_similarity_score": 0.7165099500595384,
+          "jaccard_similarity_score": 0.6488970588235294
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "AXjDdIsBbDKhMTf14R1K",
+        "url": "https://www.nbcnews.com/nbc-out/out-news/south-korean-court-upholds-ban-gay-sex-armed-forces-rcna122360",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T13:33:36+00:00"
+      },
+      "related": [
+        {
+          "id": "e3h1bYsBbDKhMTf1xRJr",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korean-court-upholds-ban-gay-sex-within-armed-forces-2023-10-26/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-26T14:18:59+00:00",
+          "cosine_similarity_score": 0.8764688725736153,
+          "jaccard_similarity_score": 0.6710526315789473
+        },
+        {
+          "id": "eHjNdIsBbDKhMTf1HR-m",
+          "url": "https://edition.cnn.com/2023/10/27/asia/south-kroea-gay-sex-military-ban-lgbtq-intl-hnk/index.html",
+          "domain": "cnn.com",
+          "published_on": "2023-10-27T06:22:50.322000+00:00",
+          "cosine_similarity_score": 0.5012973307829551,
+          "jaccard_similarity_score": 0.22364217252396168
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "BnjDdIsBbDKhMTf15x2N",
+        "url": "https://www.pbs.org/newshour/world/pope-orders-vatican-to-reopen-case-of-priest-who-was-accused-of-abusing-women-but-allowed-to-keep-ministering",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T11:22:32-04:00"
+      },
+      "related": [
+        {
+          "id": "8njOdIsBbDKhMTf15B8I",
+          "url": "https://apnews.com/article/vatican-jesuit-pope-abuse-rupnik-cb8e67c99fd8ecfb8517f6282765d70e",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T11:27:21",
+          "cosine_similarity_score": 0.9634037946556292,
+          "jaccard_similarity_score": 0.8756476683937824
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "DXjDdIsBbDKhMTf18x1E",
+        "url": "https://www.pbs.org/newshour/world/u-s-airstrikes-target-iran-linked-sites-in-syria-after-u-s-troops-attacked",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T11:27:47-04:00"
+      },
+      "related": [
+        {
+          "id": "iXjNdIsBbDKhMTf1Yx8H",
+          "url": "https://apnews.com/article/syria-airstrikes-iran-revolutionary-guard-af3c7a0f069b8c8b08f6feaa0e165d6a",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T02:08:22",
+          "cosine_similarity_score": 0.9503297118172085,
+          "jaccard_similarity_score": 0.8211920529801324
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "FnjEdIsBbDKhMTf1Ax1P",
+        "url": "https://www.pbs.org/newshour/nation/in-court-ftxs-sam-bankman-fried-denies-he-took-customers-funds-but-acknowledges-that-people-got-hurt",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T11:35:30-04:00"
+      },
+      "related": [
+        {
+          "id": "oHjbdIsBbDKhMTf1NiMc",
+          "url": "https://apnews.com/article/sam-bankman-fried-ftx-crypto-bitcoin-a2289ccf2491ed859f85d229450f1137",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T14:21:44",
+          "cosine_similarity_score": 0.6891333764806097,
+          "jaccard_similarity_score": 0.3731019522776573
+        },
+        {
+          "id": "5Xi5dIsBbDKhMTf1RBnC",
+          "url": "https://apnews.com/article/sam-bankman-fried-ftx-crypto-bitcoin-6d5423c92b601385b6a1d2edd2e4d222",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T14:44:25",
+          "cosine_similarity_score": 0.5841729798284984,
+          "jaccard_similarity_score": 0.25269978401727866
+        },
+        {
+          "id": "7njfdIsBbDKhMTf17iSl",
+          "url": "https://www.theguardian.com/business/live/2023/oct/27/sam-bankman-fried-testify-ftx-trial-live",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T21:55:10+00:00",
+          "cosine_similarity_score": 0.5737934915516932,
+          "jaccard_similarity_score": 0.10133333333333339
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "H3jEdIsBbDKhMTf1ER1M",
+        "url": "https://www.nbcnews.com/nbc-out/out-news/mass-arrests-target-lgbtq-people-nigeria-abuses-are-ignored-activists-rcna122471",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T14:30:47+00:00"
+      },
+      "related": [
+        {
+          "id": "z3i4dIsBbDKhMTf1nhk8",
+          "url": "https://apnews.com/article/lgbtq-arrests-homosexuality-nigeria-gay-rights-1f05b27f6cd2bb5bfb2319c90730f444",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T06:09:28",
+          "cosine_similarity_score": 0.999188128608429,
+          "jaccard_similarity_score": 0.9686684073107049
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "IHjEdIsBbDKhMTf1FB0w",
+        "url": "https://www.pbs.org/newshour/world/chinas-top-diplomat-visits-washington-to-help-stabilize-ties-and-perhaps-set-up-a-biden-xi-summit",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T11:45:39-04:00"
+      },
+      "related": [
+        {
+          "id": "A3jDdIsBbDKhMTf15B1F",
+          "url": "https://apnews.com/article/us-china-wangyi-biden-blinken-fbaef1a1afb599807a8fe47f3600a384",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:09:16",
+          "cosine_similarity_score": 0.6970178874808837,
+          "jaccard_similarity_score": 0.39473684210526316
+        },
+        {
+          "id": "bXhwbYsBbDKhMTf1GhEX",
+          "url": "https://apnews.com/article/us-china-wang-yi-apec-biden-xi-afc98e4cf01726ad26a1a64e203ec4af",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T04:31:23",
+          "cosine_similarity_score": 0.6570199710057293,
+          "jaccard_similarity_score": 0.3214990138067061
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "LnjEdIsBbDKhMTf1MR2T",
+        "url": "https://www.pbs.org/newshour/health/vaccine-data-shows-rates-for-latest-covid-19-booster-is-abysmal-only-7-percent-of-u-s-adults-with-shot",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T12:54:40-04:00"
+      },
+      "related": [
+        {
+          "id": "p3jFdIsBbDKhMTf1WR3H",
+          "url": "https://apnews.com/article/covid-vaccines-cdc-a478c45025a2d403b022bd05c07dd85e",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T18:02:26",
+          "cosine_similarity_score": 0.9271567255406656,
+          "jaccard_similarity_score": 0.8256410256410256
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "NHjEdIsBbDKhMTf1Ph1f",
+        "url": "https://www.pbs.org/newshour/politics/abortion-rights-supporters-far-outraise-opponents-out-of-state-money-flowing-to-ohio",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T13:41:44-04:00"
+      },
+      "related": [
+        {
+          "id": "lni8dIsBbDKhMTf1zxr6",
+          "url": "https://apnews.com/article/ohio-abortion-amendment-election-campaign-fundraising-f14d984b5b22ce64a2cfa8f53ac4ce24",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T23:53:15",
+          "cosine_similarity_score": 0.9489040308963215,
+          "jaccard_similarity_score": 0.8315412186379928
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "PHjEdIsBbDKhMTf1TR2k",
+        "url": "https://www.pbs.org/newshour/politics/how-a-rabble-rousing-socialist-priest-in-south-dakota-inspired-a-tradition-of-direct-democracy",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T13:55:13-04:00"
+      },
+      "related": [
+        {
+          "id": "mnjXdIsBbDKhMTf1tCIc",
+          "url": "https://apnews.com/article/ballot-initiatives-south-dakota-catholic-priest-ohio-abortion-b638b25795b951af3f5a3e65182c7b36",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T12:01:45",
+          "cosine_similarity_score": 0.996391357402718,
+          "jaccard_similarity_score": 0.9742173112338858
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "P3jEdIsBbDKhMTf1UB3A",
+        "url": "https://www.nbcnews.com/politics/national-security/us-strikes-iran-linked-targets-syria-retaliation-drone-attacks-rcna122155",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T02:37:49+00:00"
+      },
+      "related": [
+        {
+          "id": "DXjDdIsBbDKhMTf18x1E",
+          "url": "https://www.pbs.org/newshour/world/u-s-airstrikes-target-iran-linked-sites-in-syria-after-u-s-troops-attacked",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T11:27:47-04:00",
+          "cosine_similarity_score": 0.609534390245708,
+          "jaccard_similarity_score": 0.24521072796934862
+        },
+        {
+          "id": "iXjNdIsBbDKhMTf1Yx8H",
+          "url": "https://apnews.com/article/syria-airstrikes-iran-revolutionary-guard-af3c7a0f069b8c8b08f6feaa0e165d6a",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T02:08:22",
+          "cosine_similarity_score": 0.6112049526466236,
+          "jaccard_similarity_score": 0.24266144814090018
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "RXjEdIsBbDKhMTf1XB1Q",
+        "url": "https://www.pbs.org/newshour/politics/george-santos-pleads-not-guilty-to-fraud-charges-in-new-york",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T13:58:49-04:00"
+      },
+      "related": [
+        {
+          "id": "g3jCdIsBbDKhMTf1lhz1",
+          "url": "https://apnews.com/article/george-santos-fraud-arraignment-17e24ff38501a80c09e0ec517129d760",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:24:10",
+          "cosine_similarity_score": 0.9921449450723141,
+          "jaccard_similarity_score": 0.9833887043189369
+        },
+        {
+          "id": "B3jcdIsBbDKhMTf1riTj",
+          "url": "https://www.theguardian.com/us-news/2023/oct/27/george-santos-pleads-not-guilty-fraud-charges-new-york",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T16:42:37+00:00",
+          "cosine_similarity_score": 0.8191105415214607,
+          "jaccard_similarity_score": 0.6833855799373041
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "THjEdIsBbDKhMTf1bB3t",
+        "url": "https://www.pbs.org/newshour/politics/u-s-expands-effort-to-cut-off-funding-for-hamas",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T14:40:05-04:00"
+      },
+      "related": [
+        {
+          "id": "ZHjXdIsBbDKhMTf1FiK3",
+          "url": "https://apnews.com/article/israel-palestinians-hamas-sanctions-united-states-832d6554c55fb8e75a8c406b816807b7",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T10:11:39",
+          "cosine_similarity_score": 0.9680055733519486,
+          "jaccard_similarity_score": 0.9005847953216375
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "UnjEdIsBbDKhMTf1fB2o",
+        "url": "https://www.pbs.org/newshour/politics/eu-summit-turns-its-eyes-away-from-ukraine-despite-its-commitment-to-stay-the-course",
+        "domain": "pbs.org",
+        "published_on": "2023-10-27T15:06:42-04:00"
+      },
+      "related": [
+        {
+          "id": "8HjKdIsBbDKhMTf1eR5M",
+          "url": "https://apnews.com/article/eu-summit-ukraine-aid-zelenskyy-orban-fico-28f68bbb5bef0922fb5283e9b9aca40b",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T15:20:38",
+          "cosine_similarity_score": 0.9853659545782544,
+          "jaccard_similarity_score": 0.9402173913043478
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "YHjEdIsBbDKhMTf1mB3W",
+        "url": "https://www.nbcnews.com/news/sports/northwestern-state-cancels-football-season-teammates-death-rcna122477",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T14:33:22+00:00"
+      },
+      "related": [
+        {
+          "id": "i3i8dIsBbDKhMTf1Zxr0",
+          "url": "https://apnews.com/article/northwestern-state-football-season-canceled-ronnie-caldwell-4261a0c618599487c2100705d935c4f5",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T22:12:24",
+          "cosine_similarity_score": 0.915920634095773,
+          "jaccard_similarity_score": 0.9023255813953488
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "kXjFdIsBbDKhMTf1Fx1k",
+        "url": "https://www.nbcnews.com/news/us-news/body-missing-milwaukee-boy-prince-mccree-found-dumpster-teen-2-arreste-rcna122470",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T14:21:16+00:00"
+      },
+      "related": [
+        {
+          "id": "pXjNdIsBbDKhMTf1qR81",
+          "url": "https://apnews.com/article/boy-dumpster-milwaukee-prince-arrest-mccree-8afbe0a1f5e9fac7f30a42390d8d52e8",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T12:22:55",
+          "cosine_similarity_score": 0.9841852285408521,
+          "jaccard_similarity_score": 0.9384615384615385
+        },
+        {
+          "id": "eni_dIsBbDKhMTf1wxte",
+          "url": "https://www.cbsnews.com/news/prince-mccree-missing-milwaukee-boy-found-dumpster-2-people-in-custody/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-27T10:49:13-04:00",
+          "cosine_similarity_score": 0.7142288450830431,
+          "jaccard_similarity_score": 0.4409448818897638
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "pnjFdIsBbDKhMTf1VR0x",
+        "url": "https://www.nbcnews.com/health/health-news/new-cure-sickle-cell-disease-may-coming-fda-advisers-will-review-week-rcna122533",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T18:49:14+00:00"
+      },
+      "related": [
+        {
+          "id": "YXjddIsBbDKhMTf1_iQz",
+          "url": "https://apnews.com/article/sickle-cell-gene-therapy-crispr-8ded5e3a35b30bd257ac756f8a223c51",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T15:47:14",
+          "cosine_similarity_score": 0.9842052988758294,
+          "jaccard_similarity_score": 0.9425587467362925
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "9HjGdIsBbDKhMTf1LR0f",
+        "url": "https://www.nbcnews.com/business/business-news/sam-bankman-fried-testifies-ftx-trial-what-happened-rcna122144",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T17:51:33+00:00"
+      },
+      "related": [
+        {
+          "id": "7njfdIsBbDKhMTf17iSl",
+          "url": "https://www.theguardian.com/business/live/2023/oct/27/sam-bankman-fried-testify-ftx-trial-live",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T21:55:10+00:00",
+          "cosine_similarity_score": 0.6752628867666878,
+          "jaccard_similarity_score": 0.1062887511071745
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "-njGdIsBbDKhMTf1Ox2s",
+        "url": "https://www.nbcnews.com/politics/2024-election/democratic-rep-dean-phillips-says-s-running-president-thinks-biden-mig-rcna122547",
+        "domain": "nbcnews.com",
+        "published_on": "2023-10-27T20:04:55+00:00"
+      },
+      "related": [
+        {
+          "id": "W3jWdIsBbDKhMTf1_yKZ",
+          "url": "https://edition.cnn.com/2023/10/26/politics/dean-phillips-presidential-campaign-launch/index.html",
+          "domain": "cnn.com",
+          "published_on": "2023-10-27T02:26:48.957000+00:00",
+          "cosine_similarity_score": 0.5514159900172442,
+          "jaccard_similarity_score": 0.12737127371273715
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "_XjGdIsBbDKhMTf1TB2e",
+        "url": "https://news.sky.com/story/maine-shooting-father-of-four-and-14-year-old-boy-among-victims-12993630",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T00:57:00+00:00"
+      },
+      "related": [
+        {
+          "id": "X3i7dIsBbDKhMTf1oRps",
+          "url": "https://edition.cnn.com/2023/10/27/us/these-are-the-victims-of-the-maine-mass-shootings/index.html",
+          "domain": "cnn.com",
+          "published_on": "2023-10-27T13:14:15.522000+00:00",
+          "cosine_similarity_score": 0.5687652235839178,
+          "jaccard_similarity_score": 0.23522012578616347
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "A3jGdIsBbDKhMTf1YR5R",
+        "url": "https://news.sky.com/story/us-launches-retaliatory-strikes-on-iran-linked-munition-storage-sites-in-syria-12993637",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T03:18:00+00:00"
+      },
+      "related": [
+        {
+          "id": "DXjDdIsBbDKhMTf18x1E",
+          "url": "https://www.pbs.org/newshour/world/u-s-airstrikes-target-iran-linked-sites-in-syria-after-u-s-troops-attacked",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T11:27:47-04:00",
+          "cosine_similarity_score": 0.5154588266766721,
+          "jaccard_similarity_score": 0.3040152963671128
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "BXjGdIsBbDKhMTf1ax4t",
+        "url": "https://www.jpost.com/breaking-news/article-770414",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T03:28:19+03:00"
+      },
+      "related": [
+        {
+          "id": "73jfdIsBbDKhMTf18CSH",
+          "url": "https://www.reuters.com/world/middle-east/explosion-heard-egyptian-red-sea-town-near-israeli-border-witness-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T21:19:32+00:00",
+          "cosine_similarity_score": 0.6989290204166356,
+          "jaccard_similarity_score": 0.4426751592356688
+        },
+        {
+          "id": "8Hi5dIsBbDKhMTf1gBkw",
+          "url": "https://www.aljazeera.com/news/2023/10/27/missile-strikes-egypts-taba-resort-town-near-israel-border",
+          "domain": "aljazeera.com",
+          "published_on": "2023-10-27T07:28:11",
+          "cosine_similarity_score": 0.6827001766319222,
+          "jaccard_similarity_score": 0.35522388059701493
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "B3jGdIsBbDKhMTf1bh5-",
+        "url": "https://news.sky.com/story/maine-shooting-suspect-robert-card-who-killed-18-people-found-dead-after-48-hour-manhunt-12993624",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T05:10:00+00:00"
+      },
+      "related": [
+        {
+          "id": "0HgweIsBbDKhMTf1_il-",
+          "url": "https://edition.cnn.com/2023/10/28/us/maine-shootings-suspect-dead-saturday/index.html",
+          "domain": "cnn.com",
+          "published_on": "2023-10-28T07:06:50.435000+00:00",
+          "cosine_similarity_score": 0.5529694863631751,
+          "jaccard_similarity_score": 0.16758544652701213
+        },
+        {
+          "id": "Yni7dIsBbDKhMTf1sBqb",
+          "url": "https://edition.cnn.com/2023/10/27/us/maine-shootings-suspect-search-friday/index.html",
+          "domain": "cnn.com",
+          "published_on": "2023-10-27T07:01:50.318000+00:00",
+          "cosine_similarity_score": 0.5295109147668441,
+          "jaccard_similarity_score": 0.1464757709251101
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "CnjGdIsBbDKhMTf1ex6B",
+        "url": "https://www.jpost.com/breaking-news/article-770415",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T05:10:11+03:00"
+      },
+      "related": [
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.6193269468109693,
+          "jaccard_similarity_score": 0.12745098039215685
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "E3jGdIsBbDKhMTf1mR69",
+        "url": "https://news.sky.com/story/li-keqiang-chinas-former-deputy-leader-suffers-fatal-heart-attack-12993676",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T06:27:00+00:00"
+      },
+      "related": [
+        {
+          "id": "BHjVdIsBbDKhMTf1_yIN",
+          "url": "https://apnews.com/article/china-li-keqiang-death-reaction-e8220518f12db685c3c70b29696daea3",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:23:38",
+          "cosine_similarity_score": 0.5373463726681045,
+          "jaccard_similarity_score": 0.34042553191489366
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "H3jGdIsBbDKhMTf1vx5N",
+        "url": "https://www.jpost.com/israel-news/article-770428",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T08:13:51+03:00"
+      },
+      "related": [
+        {
+          "id": "e3jtdIsBbDKhMTf1YCfb",
+          "url": "https://www.reuters.com/world/middle-east/israeli-poll-finds-49-support-holding-off-gaza-invasion-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T05:07:57+00:00",
+          "cosine_similarity_score": 0.850683691931189,
+          "jaccard_similarity_score": 0.7526881720430108
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "LHjGdIsBbDKhMTf1_h4t",
+        "url": "https://www.jpost.com/american-politics/article-770430",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T08:52:12+03:00"
+      },
+      "related": [
+        {
+          "id": "l3jndIsBbDKhMTf1qSYE",
+          "url": "https://www.reuters.com/world/behind-bidens-shift-israel-hamas-war-gaza-deaths-international-pressure-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T05:09:19+00:00",
+          "cosine_similarity_score": 0.8753542967027481,
+          "jaccard_similarity_score": 0.7693761814744802
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "MHjHdIsBbDKhMTf1Ex5H",
+        "url": "https://apnews.com/article/un-resolution-vote-israel-hamas-gaza-truce-7eec00b0e28ef2036636b166b48ca030",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T17:36:42"
+      },
+      "related": [
+        {
+          "id": "bHi_dIsBbDKhMTf1kxtY",
+          "url": "https://www.pbs.org/newshour/politics/un-general-assembly-calls-for-humanitarian-truce-in-gaza-leading-to-halt-in-israel-hamas-war",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T16:31:51-04:00",
+          "cosine_similarity_score": 0.9758676604566479,
+          "jaccard_similarity_score": 0.9108433734939759
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "O3jHdIsBbDKhMTf1RB44",
+        "url": "https://news.sky.com/story/man-charged-with-murder-after-woman-found-dead-in-somerset-holiday-park-12993805",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T09:40:00+00:00"
+      },
+      "related": [
+        {
+          "id": "PXjldIsBbDKhMTf14yZj",
+          "url": "https://www.bbc.com/news/uk-england-somerset-67236879",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T08:29:01+00:00",
+          "cosine_similarity_score": 0.5095621614795112,
+          "jaccard_similarity_score": 0.392
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "UHjHdIsBbDKhMTf1mB44",
+        "url": "https://news.sky.com/story/joshua-hunt-man-who-terrified-somerset-drivers-while-writhing-around-in-gimp-suit-found-guilty-of-public-order-offences-12993852",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T10:53:00+00:00"
+      },
+      "related": [
+        {
+          "id": "bni_dIsBbDKhMTf1mhsU",
+          "url": "https://www.bbc.com/news/uk-england-somerset-67238445",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T15:03:27+00:00",
+          "cosine_similarity_score": 0.7383241208943205,
+          "jaccard_similarity_score": 0.5222772277227723
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "V3jHdIsBbDKhMTf1uR5l",
+        "url": "https://news.sky.com/story/israel-carries-out-more-raids-into-gaza-including-from-the-sea-12993867",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T11:16:00+00:00"
+      },
+      "related": [
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.6603616239202433,
+          "jaccard_similarity_score": 0.13141426783479349
+        },
+        {
+          "id": "63dFaosBbDKhMTf1tt61",
+          "url": "https://www.pbs.org/newshour/world/whats-happening-in-the-israel-hamas-war-as-possible-gaza-ground-invasion-looms",
+          "domain": "pbs.org",
+          "published_on": "2023-10-23T10:22:59-04:00",
+          "cosine_similarity_score": 0.611383015905823,
+          "jaccard_similarity_score": 0.1229281767955801
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "YHjHdIsBbDKhMTf13h7J",
+        "url": "https://apnews.com/article/maine-shooting-lewiston-fed5ab0aaee9d7d4c0f0fccb3d301bb7",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T05:02:52"
+      },
+      "related": [
+        {
+          "id": "W3i_dIsBbDKhMTf1WBuJ",
+          "url": "https://www.pbs.org/newshour/nation/maine-mass-killing-suspect-has-been-found-dead-law-enforcement-tells-ap",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T21:38:02-04:00",
+          "cosine_similarity_score": 0.7938369415995271,
+          "jaccard_similarity_score": 0.5114155251141552
+        },
+        {
+          "id": "d3i_dIsBbDKhMTf1uBuR",
+          "url": "https://www.pbs.org/newshour/nation/maine-officials-lift-shelter-in-place-order-as-search-for-mass-shooting-suspect-continues",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T18:25:27-04:00",
+          "cosine_similarity_score": 0.7184105605548726,
+          "jaccard_similarity_score": 0.41654778887303856
+        },
+        {
+          "id": "FHgyeIsBbDKhMTf1FSof",
+          "url": "https://www.pbs.org/newshour/nation/lewiston-seeks-answers-begins-healing-journey-after-mass-shooting-suspect-is-found-dead",
+          "domain": "pbs.org",
+          "published_on": "2023-10-28T13:16:38-04:00",
+          "cosine_similarity_score": 0.759845682361344,
+          "jaccard_similarity_score": 0.40524781341107874
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "hnjIdIsBbDKhMTf1jB7Y",
+        "url": "https://apnews.com/article/richard-moll-dies-night-court-e5f386ab083235a50db814bdaf2ba194",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T22:20:35"
+      },
+      "related": [
+        {
+          "id": "u3jDdIsBbDKhMTf1RBxN",
+          "url": "https://www.cbsnews.com/news/richard-moll-star-of-night-court-dies-age-80/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-27T19:10:28-04:00",
+          "cosine_similarity_score": 0.8155628453702065,
+          "jaccard_similarity_score": 0.7142857142857143
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "iXjIdIsBbDKhMTf1mx75",
+        "url": "https://www.jpost.com/middle-east/article-770453",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T12:50:49+03:00"
+      },
+      "related": [
+        {
+          "id": "s3judIsBbDKhMTf19SeV",
+          "url": "https://www.reuters.com/world/middle-east/israeli-bombing-gaza-has-killed-50-hostages-hamas-official-tells-russian-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T13:13:12+00:00",
+          "cosine_similarity_score": 0.6198370054279637,
+          "jaccard_similarity_score": 0.2791411042944786
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "jXjIdIsBbDKhMTf1rB6L",
+        "url": "https://apnews.com/article/haiti-moise-president-killed-miami-3236a13f74c3ff5fa5300c21e314dc81",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T17:26:28"
+      },
+      "related": [
+        {
+          "id": "oXjedIsBbDKhMTf12CTZ",
+          "url": "https://www.theguardian.com/us-news/2023/oct/27/jovenel-moise-haiti-president-assassination",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T19:17:11+00:00",
+          "cosine_similarity_score": 0.8454719087937869,
+          "jaccard_similarity_score": 0.6736842105263158
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "lXjIdIsBbDKhMTf1xx4u",
+        "url": "https://www.jpost.com/international/article-770454",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T13:12:51+03:00"
+      },
+      "related": [
+        {
+          "id": "1njodIsBbDKhMTf15Ca0",
+          "url": "https://www.reuters.com/world/us-puts-new-sanctions-hamas-members-irans-revolutionary-guard-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T17:53:14+00:00",
+          "cosine_similarity_score": 0.8448706071916091,
+          "jaccard_similarity_score": 0.6517241379310346
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "nHjIdIsBbDKhMTf15R4-",
+        "url": "https://news.sky.com/story/israel-hamas-war-un-calls-for-more-aid-to-be-allowed-into-gaza-amid-collective-punishment-blockade-12994075",
+        "domain": "sky.com",
+        "published_on": "2023-10-27T15:32:00+00:00"
+      },
+      "related": [
+        {
+          "id": "43jDdIsBbDKhMTf1qhx1",
+          "url": "https://www.pbs.org/newshour/world/israel-to-begin-long-ground-war-in-gaza-soon-aims-to-destroy-hamas-and-its-tunnels",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:25:55-04:00",
+          "cosine_similarity_score": 0.5879532630423361,
+          "jaccard_similarity_score": 0.22499999999999998
+        },
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5096576515844897,
+          "jaccard_similarity_score": 0.1067415730337079
+        },
+        {
+          "id": "5XdFaosBbDKhMTf1tt_f",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-on-day-19-of-the-israel-hamas-war",
+          "domain": "pbs.org",
+          "published_on": "2023-10-25T10:02:26-04:00",
+          "cosine_similarity_score": 0.500134337690731,
+          "jaccard_similarity_score": 0.10571240971766249
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "onjJdIsBbDKhMTf1BB7I",
+        "url": "https://www.jpost.com/breaking-news/article-770457",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T13:45:44+03:00"
+      },
+      "related": [
+        {
+          "id": "C3jqdIsBbDKhMTf1HCcR",
+          "url": "https://www.reuters.com/business/finance/us-says-some-digital-asset-firms-not-doing-enough-stop-illicit-finance-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T13:51:21+00:00",
+          "cosine_similarity_score": 0.579456972177699,
+          "jaccard_similarity_score": 0.3187772925764192
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "r3jJdIsBbDKhMTf1Px4J",
+        "url": "https://www.jpost.com/middle-east/article-770462",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T14:19:36+03:00"
+      },
+      "related": [
+        {
+          "id": "GnjqdIsBbDKhMTf1gydh",
+          "url": "https://www.reuters.com/world/uk/london-mayors-call-ceasefire-gaza-puts-pressure-labour-leader-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T12:54:28+00:00",
+          "cosine_similarity_score": 0.8226003886279,
+          "jaccard_similarity_score": 0.6466165413533835
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "tXjJdIsBbDKhMTf1Tx6d",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-770463",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T14:35:59+03:00"
+      },
+      "related": [
+        {
+          "id": "WHhvbYsBbDKhMTf1zRFa",
+          "url": "https://www.reuters.com/world/middle-east/hamas-tunnel-city-beneath-gaza-hidden-frontline-israel-2023-10-26/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-26T17:14:17+00:00",
+          "cosine_similarity_score": 0.9427529273655175,
+          "jaccard_similarity_score": 0.8190045248868778
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "1njJdIsBbDKhMTf1-B4I",
+        "url": "https://www.jpost.com/israel-news/article-770473",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T15:59:40+03:00"
+      },
+      "related": [
+        {
+          "id": "g3jidIsBbDKhMTf1MiU3",
+          "url": "https://www.reuters.com/world/middle-east/indians-given-death-penalty-qatar-accused-spying-israel-sources-say-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T12:34:39+00:00",
+          "cosine_similarity_score": 0.5908402585944171,
+          "jaccard_similarity_score": 0.2633928571428571
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "3XjKdIsBbDKhMTf1Ex7g",
+        "url": "https://www.jpost.com/breaking-news/article-770474",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T16:07:36+03:00"
+      },
+      "related": [
+        {
+          "id": "q3jjdIsBbDKhMTf1ACUB",
+          "url": "https://www.reuters.com/world/middle-east/qatar-told-us-it-is-open-reconsidering-hamas-presence-us-official-says-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T15:30:21+00:00",
+          "cosine_similarity_score": 0.6802200614170442,
+          "jaccard_similarity_score": 0.40594059405940597
+        },
+        {
+          "id": "jHhHeIsBbDKhMTf1-Swl",
+          "url": "https://www.theguardian.com/world/2023/oct/28/qatars-peacemaking-ambitions-face-ultimate-test-in-crucible-of-israel-hamas-war",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-28T07:00:10+00:00",
+          "cosine_similarity_score": 0.503154763691717,
+          "jaccard_similarity_score": 0.09126984126984128
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "5njKdIsBbDKhMTf1Qx7m",
+        "url": "https://www.jpost.com/christianworld/article-770476",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T16:22:07+03:00"
+      },
+      "related": [
+        {
+          "id": "dXjhdIsBbDKhMTf14SVI",
+          "url": "https://www.reuters.com/world/europe/pope-orders-reopening-case-prominent-priest-accused-abuse-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T16:48:48+00:00",
+          "cosine_similarity_score": 0.8475873371267779,
+          "jaccard_similarity_score": 0.6628787878787878
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "7HjKdIsBbDKhMTf1bB5m",
+        "url": "https://www.jpost.com/israel-news/article-770481",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T16:51:47+03:00"
+      },
+      "related": [
+        {
+          "id": "MXjddIsBbDKhMTf1PSRT",
+          "url": "https://www.reuters.com/world/middle-east/eight-more-aid-trucks-expected-cross-into-gaza-friday-un-official-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T13:37:52+00:00",
+          "cosine_similarity_score": 0.8767119549422272,
+          "jaccard_similarity_score": 0.751004016064257
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "8HjKdIsBbDKhMTf1eR5M",
+        "url": "https://apnews.com/article/eu-summit-ukraine-aid-zelenskyy-orban-fico-28f68bbb5bef0922fb5283e9b9aca40b",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T15:20:38"
+      },
+      "related": [
+        {
+          "id": "UnjEdIsBbDKhMTf1fB2o",
+          "url": "https://www.pbs.org/newshour/politics/eu-summit-turns-its-eyes-away-from-ukraine-despite-its-commitment-to-stay-the-course",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T15:06:42-04:00",
+          "cosine_similarity_score": 0.9853659545782542,
+          "jaccard_similarity_score": 0.9402173913043478
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "93jKdIsBbDKhMTf1ux5b",
+        "url": "https://www.newsweek.com/maine-mass-shooting-victims-identified-1838459",
+        "domain": "newsweek.com",
+        "published_on": "2023-10-27T04:53:40-04:00"
+      },
+      "related": [
+        {
+          "id": "xnjAdIsBbDKhMTf1ghu3",
+          "url": "https://www.reuters.com/world/us/maine-shooting-victims-father-son-out-bowling-night-bar-employee-2023-10-26/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-26T23:27:25+00:00",
+          "cosine_similarity_score": 0.6230175676643136,
+          "jaccard_similarity_score": 0.3483709273182958
+        },
+        {
+          "id": "BnjgdIsBbDKhMTf1NSUG",
+          "url": "https://www.reuters.com/world/us/maine-shooting-victims-pipefitter-who-loved-wrestling-father-son-bowling-league-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T23:46:46+00:00",
+          "cosine_similarity_score": 0.6035607235370742,
+          "jaccard_similarity_score": 0.2788844621513944
+        },
+        {
+          "id": "X3i7dIsBbDKhMTf1oRps",
+          "url": "https://edition.cnn.com/2023/10/27/us/these-are-the-victims-of-the-maine-mass-shootings/index.html",
+          "domain": "cnn.com",
+          "published_on": "2023-10-27T13:14:15.522000+00:00",
+          "cosine_similarity_score": 0.5332790713390906,
+          "jaccard_similarity_score": 0.196236559139785
+        },
+        {
+          "id": "_XjGdIsBbDKhMTf1TB2e",
+          "url": "https://news.sky.com/story/maine-shooting-father-of-four-and-14-year-old-boy-among-victims-12993630",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T00:57:00+00:00",
+          "cosine_similarity_score": 0.5717076621133383,
+          "jaccard_similarity_score": 0.26881720430107525
+        },
+        {
+          "id": "PXjgdIsBbDKhMTf18iV2",
+          "url": "https://www.theguardian.com/us-news/2023/oct/27/who-are-victims-maine-shooting",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-28T01:53:43+00:00",
+          "cosine_similarity_score": 0.5410504013449796,
+          "jaccard_similarity_score": 0.20499999999999996
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "-XjKdIsBbDKhMTf1zR6S",
+        "url": "https://www.jpost.com/israel-news/article-770486",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T17:59:16+03:00"
+      },
+      "related": [
+        {
+          "id": "_njkdIsBbDKhMTf1oyUb",
+          "url": "https://www.reuters.com/world/uk/london-hate-crimes-rise-again-wake-middle-east-conflict-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T14:22:47+00:00",
+          "cosine_similarity_score": 0.8792325419307639,
+          "jaccard_similarity_score": 0.7651821862348178
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "D3jLdIsBbDKhMTf1Oh_a",
+        "url": "https://www.jpost.com/israel-news/article-770505",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T19:16:10+03:00"
+      },
+      "related": [
+        {
+          "id": "snjfdIsBbDKhMTf1FySe",
+          "url": "https://www.reuters.com/world/middle-east/prayers-protests-clashes-jerusalem-west-bank-gaza-war-rages-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T16:38:29+00:00",
+          "cosine_similarity_score": 0.91667329773056,
+          "jaccard_similarity_score": 0.7736625514403292
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "IHjLdIsBbDKhMTf1hR_4",
+        "url": "https://www.jpost.com/breaking-news/article-770512",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T20:08:57+03:00"
+      },
+      "related": [
+        {
+          "id": "f3jedIsBbDKhMTf1aSSr",
+          "url": "https://www.reuters.com/world/middle-east/gaza-aid-monitoring-must-change-allow-more-trucks-un-chief-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T18:13:15+00:00",
+          "cosine_similarity_score": 0.8483787987093483,
+          "jaccard_similarity_score": 0.663716814159292
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "W3jMdIsBbDKhMTf1ph93",
+        "url": "https://apnews.com/article/united-states-colombia-womens-world-cup-alex-morgan-linda-caicedo-3484791ad0dc1180babcf81f3d30c070",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T03:23:06"
+      },
+      "related": [
+        {
+          "id": "b3jQdIsBbDKhMTf1oSDV",
+          "url": "https://www.theguardian.com/football/2023/oct/26/uswnt-colombia-friendly-report",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T03:40:37+00:00",
+          "cosine_similarity_score": 0.9174918759594107,
+          "jaccard_similarity_score": 0.7907949790794979
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "YHjMdIsBbDKhMTf1th-F",
+        "url": "https://edition.cnn.com/2023/10/27/business/us-china-chip-industry-tsmc-founder-intl-hnk/index.html",
+        "domain": "cnn.com",
+        "published_on": "2023-10-27T03:45:29.661000+00:00"
+      },
+      "related": [
+        {
+          "id": "cXhwbYsBbDKhMTf1JhEl",
+          "url": "https://www.reuters.com/technology/us-china-tensions-will-slow-global-chip-industry-tsmc-founder-says-2023-10-26/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-26T19:13:49+00:00",
+          "cosine_similarity_score": 0.5962239971058757,
+          "jaccard_similarity_score": 0.4065040650406504
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "c3jNdIsBbDKhMTf1Ch8C",
+        "url": "https://www.jpost.com/breaking-news/article-770521",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T23:03:06+03:00"
+      },
+      "related": [
+        {
+          "id": "1XjYdIsBbDKhMTf1ZSIy",
+          "url": "https://www.reuters.com/world/un-overwhelmingly-calls-aid-truce-between-israel-hamas-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-28T04:52:09+00:00",
+          "cosine_similarity_score": 0.6348600171573728,
+          "jaccard_similarity_score": 0.2529182879377432
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "fnjNdIsBbDKhMTf1OR9C",
+        "url": "https://www.jpost.com/arab-israeli-conflict/article-770524",
+        "domain": "jpost.com",
+        "published_on": "2023-10-27T23:32:13+03:00"
+      },
+      "related": [
+        {
+          "id": "OXjWdIsBbDKhMTf1kCLZ",
+          "url": "https://www.reuters.com/world/middle-east/israeli-military-says-it-cant-guarantee-journalists-safety-gaza-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T22:01:10+00:00",
+          "cosine_similarity_score": 0.9171331693809983,
+          "jaccard_similarity_score": 0.7420814479638009
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "hXjNdIsBbDKhMTf1Wh_u",
+        "url": "https://www.newsweek.com/michael-cohen-trump-lawyers-fraud-trial-habba-1838544",
+        "domain": "newsweek.com",
+        "published_on": "2023-10-27T09:39:46-04:00"
+      },
+      "related": [
+        {
+          "id": "andFaosBbDKhMTf1t-FV",
+          "url": "https://www.theguardian.com/us-news/live/2023/oct/25/michael-cohen-testimony-trump-trial-latest-updates-new-york-fraud-case",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-25T20:12:14+00:00",
+          "cosine_similarity_score": 0.7097679705059082,
+          "jaccard_similarity_score": 0.14949037372593432
+        },
+        {
+          "id": "IHhobYsBbDKhMTf1tA8X",
+          "url": "https://www.cbsnews.com/news/trump-new-york-civil-criminal-cases-collide-michael-cohen-testifies-trial/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-25T21:18:00-04:00",
+          "cosine_similarity_score": 0.6665455931982356,
+          "jaccard_similarity_score": 0.18777292576419213
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "iXjNdIsBbDKhMTf1Yx8H",
+        "url": "https://apnews.com/article/syria-airstrikes-iran-revolutionary-guard-af3c7a0f069b8c8b08f6feaa0e165d6a",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T02:08:22"
+      },
+      "related": [
+        {
+          "id": "DXjDdIsBbDKhMTf18x1E",
+          "url": "https://www.pbs.org/newshour/world/u-s-airstrikes-target-iran-linked-sites-in-syria-after-u-s-troops-attacked",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T11:27:47-04:00",
+          "cosine_similarity_score": 0.950329711817208,
+          "jaccard_similarity_score": 0.8211920529801324
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "pXjNdIsBbDKhMTf1qR81",
+        "url": "https://apnews.com/article/boy-dumpster-milwaukee-prince-arrest-mccree-8afbe0a1f5e9fac7f30a42390d8d52e8",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T12:22:55"
+      },
+      "related": [
+        {
+          "id": "kXjFdIsBbDKhMTf1Fx1k",
+          "url": "https://www.nbcnews.com/news/us-news/body-missing-milwaukee-boy-prince-mccree-found-dumpster-teen-2-arreste-rcna122470",
+          "domain": "nbcnews.com",
+          "published_on": "2023-10-27T14:21:16+00:00",
+          "cosine_similarity_score": 0.9841852285408522,
+          "jaccard_similarity_score": 0.9384615384615385
+        },
+        {
+          "id": "eni_dIsBbDKhMTf1wxte",
+          "url": "https://www.cbsnews.com/news/prince-mccree-missing-milwaukee-boy-found-dumpster-2-people-in-custody/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-27T10:49:13-04:00",
+          "cosine_similarity_score": 0.7264371155010398,
+          "jaccard_similarity_score": 0.43846153846153846
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "wXjOdIsBbDKhMTf1GR8f",
+        "url": "https://www.newsweek.com/steve-schmidt-backing-dean-phillips-2024-election-joe-biden-1838591",
+        "domain": "newsweek.com",
+        "published_on": "2023-10-27T10:54:37-04:00"
+      },
+      "related": [
+        {
+          "id": "W3jWdIsBbDKhMTf1_yKZ",
+          "url": "https://edition.cnn.com/2023/10/26/politics/dean-phillips-presidential-campaign-launch/index.html",
+          "domain": "cnn.com",
+          "published_on": "2023-10-27T02:26:48.957000+00:00",
+          "cosine_similarity_score": 0.5427283638906756,
+          "jaccard_similarity_score": 0.14974619289340096
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "8njOdIsBbDKhMTf15B8I",
+        "url": "https://apnews.com/article/vatican-jesuit-pope-abuse-rupnik-cb8e67c99fd8ecfb8517f6282765d70e",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T11:27:21"
+      },
+      "related": [
+        {
+          "id": "BnjDdIsBbDKhMTf15x2N",
+          "url": "https://www.pbs.org/newshour/world/pope-orders-vatican-to-reopen-case-of-priest-who-was-accused-of-abusing-women-but-allowed-to-keep-ministering",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T11:22:32-04:00",
+          "cosine_similarity_score": 0.963403794655629,
+          "jaccard_similarity_score": 0.8756476683937824
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "J3jPdIsBbDKhMTf1oSCX",
+        "url": "https://apnews.com/article/israel-hamas-war-live-updates-10-27-2023-af48f964636c8a2836e02e78ff01ec4c",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T07:31:31"
+      },
+      "related": [
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.8230528296257973,
+          "jaccard_similarity_score": 0.43497757847533636
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "NHjPdIsBbDKhMTf10CAQ",
+        "url": "https://www.theguardian.com/world/2023/oct/26/hurricane-otis-mexico-acapulco-damage-aid-military",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T01:02:27+00:00"
+      },
+      "related": [
+        {
+          "id": "9XjDdIsBbDKhMTf1xxzq",
+          "url": "https://www.pbs.org/newshour/world/desperation-grows-in-mexico-following-hurricane-otis-amid-slow-government-response",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:48:11-04:00",
+          "cosine_similarity_score": 0.5258923870395532,
+          "jaccard_similarity_score": 0.2583732057416268
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "UHjQdIsBbDKhMTf1NCCp",
+        "url": "https://apnews.com/article/israel-palestinians-gaza-airstrikes-region-e41b5b12e8cdf9db62395314d9a782b6",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T06:40:22"
+      },
+      "related": [
+        {
+          "id": "43jDdIsBbDKhMTf1qhx1",
+          "url": "https://www.pbs.org/newshour/world/israel-to-begin-long-ground-war-in-gaza-soon-aims-to-destroy-hamas-and-its-tunnels",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:25:55-04:00",
+          "cosine_similarity_score": 0.8607488149339211,
+          "jaccard_similarity_score": 0.5225806451612903
+        },
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.6924772944515314,
+          "jaccard_similarity_score": 0.19365994236311235
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "b3jQdIsBbDKhMTf1oSDV",
+        "url": "https://www.theguardian.com/football/2023/oct/26/uswnt-colombia-friendly-report",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T03:40:37+00:00"
+      },
+      "related": [
+        {
+          "id": "W3jMdIsBbDKhMTf1ph93",
+          "url": "https://apnews.com/article/united-states-colombia-womens-world-cup-alex-morgan-linda-caicedo-3484791ad0dc1180babcf81f3d30c070",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T03:23:06",
+          "cosine_similarity_score": 0.9174918759594106,
+          "jaccard_similarity_score": 0.7907949790794979
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "dHjQdIsBbDKhMTf1sSCL",
+        "url": "https://www.theguardian.com/sport/2023/oct/26/buffalo-bills-tampa-bay-buccaneers-josh-allen-report",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T03:52:12+00:00"
+      },
+      "related": [
+        {
+          "id": "6njKdIsBbDKhMTf1WB7e",
+          "url": "https://apnews.com/article/buccaneers-bills-81c41ce48bde90357768807f1ba2f711",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T03:42:42",
+          "cosine_similarity_score": 0.6770903522816456,
+          "jaccard_similarity_score": 0.41129032258064513
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "dnjQdIsBbDKhMTf1siB3",
+        "url": "https://apnews.com/article/russia-inflation-interest-rate-increase-bank-fe9cf567ec95a72faa85549ab4700d75",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T12:30:40"
+      },
+      "related": [
+        {
+          "id": "_XjpdIsBbDKhMTf1tyaP",
+          "url": "https://www.reuters.com/markets/europe/russia-hikes-interest-rates-by-200-bps-15-above-forecast-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T14:17:42+00:00",
+          "cosine_similarity_score": 0.5014041959357823,
+          "jaccard_similarity_score": 0.14477211796246647
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "hXjQdIsBbDKhMTf13CCP",
+        "url": "https://edition.cnn.com/2023/10/27/sport/shane-pinto-suspended-nhl-gambling-spt-intl/index.html",
+        "domain": "cnn.com",
+        "published_on": "2023-10-27T12:00:33.696000+00:00"
+      },
+      "related": [
+        {
+          "id": "BnjLdIsBbDKhMTf1Eh9f",
+          "url": "https://apnews.com/article/senators-shane-pinto-suspended-gambling-09cbedc1d9257fede6ec59251e76a914",
+          "domain": "apnews.com",
+          "published_on": "2023-10-26T16:19:50",
+          "cosine_similarity_score": 0.638767512383282,
+          "jaccard_similarity_score": 0.33676975945017185
+        },
+        {
+          "id": "8njDdIsBbDKhMTf1xByG",
+          "url": "https://www.nbcnews.com/news/sports/nhl-suspends-ottawas-shane-pinto-41-games-gambling-rcna122452",
+          "domain": "nbcnews.com",
+          "published_on": "2023-10-27T11:34:09+00:00",
+          "cosine_similarity_score": 0.6346659639233476,
+          "jaccard_similarity_score": 0.33564013840830453
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "hnjQdIsBbDKhMTf13iBx",
+        "url": "https://www.newsweek.com/sam-bankman-fried-thought-ftx-would-fail-1838633",
+        "domain": "newsweek.com",
+        "published_on": "2023-10-27T13:52:51-04:00"
+      },
+      "related": [
+        {
+          "id": "7njfdIsBbDKhMTf17iSl",
+          "url": "https://www.theguardian.com/business/live/2023/oct/27/sam-bankman-fried-testify-ftx-trial-live",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T21:55:10+00:00",
+          "cosine_similarity_score": 0.643909914401525,
+          "jaccard_similarity_score": 0.0927209705372617
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "onjRdIsBbDKhMTf1JyBo",
+        "url": "https://www.bbc.com/sport/football/67245876",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T21:05:01+00:00"
+      },
+      "related": [
+        {
+          "id": "pHhbeIsBbDKhMTf1Hi3E",
+          "url": "https://www.thesun.co.uk/sport/24554123/matthew-etherington-colchester-crawley-manager-contract-row/",
+          "domain": "thesun.co.uk",
+          "published_on": "2023-10-28T06:20:34+00:00",
+          "cosine_similarity_score": 0.5313304277351305,
+          "jaccard_similarity_score": 0.2185430463576159
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "2XjRdIsBbDKhMTf1wSC-",
+        "url": "https://apnews.com/article/otis-mexico-acapulco-government-response-survivors-storm-4c33ae4a3ebcf272eb05b89ae898bb28",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T04:42:16"
+      },
+      "related": [
+        {
+          "id": "9XjDdIsBbDKhMTf1xxzq",
+          "url": "https://www.pbs.org/newshour/world/desperation-grows-in-mexico-following-hurricane-otis-amid-slow-government-response",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:48:11-04:00",
+          "cosine_similarity_score": 0.5247340518514002,
+          "jaccard_similarity_score": 0.2780337941628265
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "R3jTdIsBbDKhMTf1HiHA",
+        "url": "https://edition.cnn.com/2023/10/26/entertainment/taylor-swift-releases-1989-taylors-version/index.html",
+        "domain": "cnn.com",
+        "published_on": "2023-10-27T04:21:46.834000+00:00"
+      },
+      "related": [
+        {
+          "id": "mXjFdIsBbDKhMTf1Jx0C",
+          "url": "https://www.nbcnews.com/pop-culture/1989-taylors-version-what-to-know-rcna122332",
+          "domain": "nbcnews.com",
+          "published_on": "2023-10-26T22:31:24+00:00",
+          "cosine_similarity_score": 0.5539163809370169,
+          "jaccard_similarity_score": 0.18951612903225812
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "gHjTdIsBbDKhMTf1-CER",
+        "url": "https://apnews.com/article/china-former-premier-li-keqiang-died-537e0dbbc2a4023915cb428f44540468",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T00:47:17"
+      },
+      "related": [
+        {
+          "id": "yXjAdIsBbDKhMTf1jRvv",
+          "url": "https://www.pbs.org/newshour/world/former-premier-li-keqiang-once-considered-a-contender-to-lead-chinas-communist-party-dies-at-68",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T12:11:38-04:00",
+          "cosine_similarity_score": 0.9554412002840779,
+          "jaccard_similarity_score": 0.866779089376054
+        },
+        {
+          "id": "0XjAdIsBbDKhMTf1pRs_",
+          "url": "https://www.nbcnews.com/news/world/china-li-keqiang-dead-rcna122429",
+          "domain": "nbcnews.com",
+          "published_on": "2023-10-27T02:41:52+00:00",
+          "cosine_similarity_score": 0.881966297901212,
+          "jaccard_similarity_score": 0.5735567970204842
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "pnjUdIsBbDKhMTf1eSGL",
+        "url": "https://apnews.com/article/cricket-world-cup-pakistan-south-africa-ba8412199c9f8b26bb8d7615a07ca9f8",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T08:43:39"
+      },
+      "related": [
+        {
+          "id": "XHjddIsBbDKhMTf17CSo",
+          "url": "https://www.theguardian.com/sport/live/2023/oct/27/pakistan-v-south-africa-cricket-world-cup-2023-live",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T17:55:26+00:00",
+          "cosine_similarity_score": 0.5958914605830522,
+          "jaccard_similarity_score": 0.1416837782340863
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "snjUdIsBbDKhMTf1oSHs",
+        "url": "https://apnews.com/article/twitter-x-elon-musk-takeover-anniversary-ac2cb6419d93d64086cc9ad980c5a57a",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T04:06:03"
+      },
+      "related": [
+        {
+          "id": "53jAdIsBbDKhMTf14RuJ",
+          "url": "https://www.cbsnews.com/news/elon-musk-twitter-x-one-year-after-acquisition/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-27T15:22:00-04:00",
+          "cosine_similarity_score": 0.878149837457227,
+          "jaccard_similarity_score": 0.7267206477732793
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "vHjUdIsBbDKhMTf1yiEW",
+        "url": "https://www.theguardian.com/football/2023/oct/27/robbie-fowler-sacked-saudi-arabian-club-al-qadsiah-after-four-months",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T09:26:09+00:00"
+      },
+      "related": [
+        {
+          "id": "v3jvdIsBbDKhMTf1UieH",
+          "url": "https://www.reuters.com/sports/soccer/saudi-side-al-qadsiah-part-ways-with-manager-fowler-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T07:01:05+00:00",
+          "cosine_similarity_score": 0.6452016477999174,
+          "jaccard_similarity_score": 0.4304635761589404
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "wnjUdIsBbDKhMTf14iHp",
+        "url": "https://apnews.com/sports/pittsburgh-penguins-4c7f464a405e6d033459e4676a498ff9",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T02:44:53"
+      },
+      "related": [
+        {
+          "id": "hXjtdIsBbDKhMTf1rCeo",
+          "url": "https://www.reuters.com/sports/nhl-roundup-penguins-end-avs-record-road-run-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T05:16:54+00:00",
+          "cosine_similarity_score": 0.7445510803602367,
+          "jaccard_similarity_score": 0.3580980683506686
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "xXjUdIsBbDKhMTf17yHq",
+        "url": "https://apnews.com/article/donald-trump-fraud-lawsuit-trial-ivanka-trump-testimony-c7018a92f3a2cb2496a55ad1cacf2412",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T04:12:03"
+      },
+      "related": [
+        {
+          "id": "s3jAdIsBbDKhMTf1Xxuh",
+          "url": "https://www.pbs.org/newshour/politics/donald-trump-is-set-to-testify-nov-6-in-civil-fraud-trial-ivanka-trump-also-called-on-to-testify",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T18:58:01-04:00",
+          "cosine_similarity_score": 0.9901158377253613,
+          "jaccard_similarity_score": 0.9053254437869822
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "9XjVdIsBbDKhMTf1wCF4",
+        "url": "https://www.theguardian.com/world/2023/oct/27/israeli-troops-mount-second-overnight-raid-into-gaza",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T10:24:03+00:00"
+      },
+      "related": [
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5057709817316409,
+          "jaccard_similarity_score": 0.12015018773466835
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "EXjWdIsBbDKhMTf1IyK0",
+        "url": "https://apnews.com/article/phillips-2024-presidential-campaign-biden-democratic-challenger-0f38b80ba00566014a4d59fdb516d52c",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T04:16:50"
+      },
+      "related": [
+        {
+          "id": "73jDdIsBbDKhMTf1vhx0",
+          "url": "https://www.pbs.org/newshour/politics/minnesota-rep-dean-phillips-to-challenge-biden-in-democratic-primary",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:35:46-04:00",
+          "cosine_similarity_score": 0.8627422899940651,
+          "jaccard_similarity_score": 0.5557377049180328
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "OXjWdIsBbDKhMTf1kCLZ",
+        "url": "https://www.reuters.com/world/middle-east/israeli-military-says-it-cant-guarantee-journalists-safety-gaza-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T22:01:10+00:00"
+      },
+      "related": [
+        {
+          "id": "fnjNdIsBbDKhMTf1OR9C",
+          "url": "https://www.jpost.com/arab-israeli-conflict/article-770524",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T23:32:13+03:00",
+          "cosine_similarity_score": 0.9171331693809982,
+          "jaccard_similarity_score": 0.7420814479638009
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "ZHjXdIsBbDKhMTf1FiK3",
+        "url": "https://apnews.com/article/israel-palestinians-hamas-sanctions-united-states-832d6554c55fb8e75a8c406b816807b7",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T10:11:39"
+      },
+      "related": [
+        {
+          "id": "THjEdIsBbDKhMTf1bB3t",
+          "url": "https://www.pbs.org/newshour/politics/u-s-expands-effort-to-cut-off-funding-for-hamas",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T14:40:05-04:00",
+          "cosine_similarity_score": 0.9680055733519486,
+          "jaccard_similarity_score": 0.9005847953216375
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "fHjXdIsBbDKhMTf1ViIB",
+        "url": "https://www.theguardian.com/sport/2023/oct/27/tahiti-surf-tower-sparks-protests-against-olympics-kooks-before-paris-2024",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T12:03:16+00:00"
+      },
+      "related": [
+        {
+          "id": "oHjudIsBbDKhMTf1aCfw",
+          "url": "https://www.reuters.com/sports/tahiti-surf-judging-tower-sparks-protests-against-olympic-kooks-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T05:49:13+00:00",
+          "cosine_similarity_score": 0.8567041492148432,
+          "jaccard_similarity_score": 0.6491228070175439
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "mnjXdIsBbDKhMTf1tCIc",
+        "url": "https://apnews.com/article/ballot-initiatives-south-dakota-catholic-priest-ohio-abortion-b638b25795b951af3f5a3e65182c7b36",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T12:01:45"
+      },
+      "related": [
+        {
+          "id": "PHjEdIsBbDKhMTf1TR2k",
+          "url": "https://www.pbs.org/newshour/politics/how-a-rabble-rousing-socialist-priest-in-south-dakota-inspired-a-tradition-of-direct-democracy",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T13:55:13-04:00",
+          "cosine_similarity_score": 0.9963913574027182,
+          "jaccard_similarity_score": 0.9742173112338858
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "unjYdIsBbDKhMTf1GCK8",
+        "url": "https://www.theguardian.com/world/2023/oct/27/spanish-clergy-sexual-abused-more-than-200000-children-inquiry-estimates",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T12:54:56+00:00"
+      },
+      "related": [
+        {
+          "id": "uXi3dIsBbDKhMTf1wxnD",
+          "url": "https://www.aljazeera.com/news/2023/10/27/spanish-clergy-sexually-abused-more-than-200000-children-commission-finds",
+          "domain": "aljazeera.com",
+          "published_on": "2023-10-27T20:27:43",
+          "cosine_similarity_score": 0.6320961693812062,
+          "jaccard_similarity_score": 0.3515625
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "E3jZdIsBbDKhMTf1DCOK",
+        "url": "https://apnews.com/article/natwest-coutts-bank-farage-debanking-9a1bdb045f4160da7fa3f70b66772ab5",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T10:48:13"
+      },
+      "related": [
+        {
+          "id": "1HjbdIsBbDKhMTf1-SPz",
+          "url": "https://www.theguardian.com/business/2023/oct/27/natwest-decision-to-close-nigel-farage-bank-accounts-was-lawful-says-report-coutts",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T16:10:10+00:00",
+          "cosine_similarity_score": 0.5337787828276666,
+          "jaccard_similarity_score": 0.20519480519480515
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "ZHjadIsBbDKhMTf1KiNq",
+        "url": "https://apnews.com/article/inflation-debt-poll-personal-finance-economy-dd4c88e2076d1fd3f85c51fb8992583b",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T04:08:40"
+      },
+      "related": [
+        {
+          "id": "_XjDdIsBbDKhMTf13Ryv",
+          "url": "https://www.pbs.org/newshour/economy/ap-norc-poll-many-americans-say-their-expenses-are-outpacing-earnings-this-year",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T11:03:52-04:00",
+          "cosine_similarity_score": 0.7820208570565934,
+          "jaccard_similarity_score": 0.8163716814159292
+        },
+        {
+          "id": "Gni-dIsBbDKhMTf1mxv7",
+          "url": "https://www.cbsnews.com/news/american-economy-household-spending-higher-than-income-ap-norc-poll/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-27T09:55:00-04:00",
+          "cosine_similarity_score": 0.8781180081722544,
+          "jaccard_similarity_score": 0.6521739130434783
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "bHjadIsBbDKhMTf1VCPh",
+        "url": "https://www.theguardian.com/uk-news/2023/oct/27/colchester-man-jailed-for-life-murdering-wife-ertan-ersoy-antonella-castelvedere",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T14:34:10+00:00"
+      },
+      "related": [
+        {
+          "id": "dXjIdIsBbDKhMTf1Ph6o",
+          "url": "https://news.sky.com/story/colchester-murder-ertan-ersoy-who-cut-wifes-throat-in-jealous-rage-jailed-12993965",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T13:23:00+00:00",
+          "cosine_similarity_score": 0.6559366446289431,
+          "jaccard_similarity_score": 0.42808219178082196
+        },
+        {
+          "id": "Lni-dIsBbDKhMTf1yhvU",
+          "url": "https://www.bbc.com/news/uk-england-essex-67240533",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T17:14:48+00:00",
+          "cosine_similarity_score": 0.5941248953360718,
+          "jaccard_similarity_score": 0.33653846153846156
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "oHjbdIsBbDKhMTf1NiMc",
+        "url": "https://apnews.com/article/sam-bankman-fried-ftx-crypto-bitcoin-a2289ccf2491ed859f85d229450f1137",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T14:21:44"
+      },
+      "related": [
+        {
+          "id": "7njfdIsBbDKhMTf17iSl",
+          "url": "https://www.theguardian.com/business/live/2023/oct/27/sam-bankman-fried-testify-ftx-trial-live",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T21:55:10+00:00",
+          "cosine_similarity_score": 0.7277251458820143,
+          "jaccard_similarity_score": 0.17562149157979146
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "q3jbdIsBbDKhMTf1ZSOY",
+        "url": "https://www.theguardian.com/world/2023/oct/27/iceland-earthquakes-next-volcanic-eruption",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T15:37:54+00:00"
+      },
+      "related": [
+        {
+          "id": "D3jkdIsBbDKhMTf17iZk",
+          "url": "https://www.reuters.com/world/europe/iceland-hit-by-thousands-small-earthquakes-volcano-warning-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T14:33:01+00:00",
+          "cosine_similarity_score": 0.773778857095767,
+          "jaccard_similarity_score": 0.6403940886699507
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "zXjbdIsBbDKhMTf13iPl",
+        "url": "https://www.thesun.co.uk/sport/24542207/wimbledon-expansion-plans-edge-closer/",
+        "domain": "thesun.co.uk",
+        "published_on": "2023-10-27T09:14:43+00:00"
+      },
+      "related": [
+        {
+          "id": "hnjXdIsBbDKhMTf1dCK-",
+          "url": "https://www.bbc.com/sport/tennis/67235056",
+          "domain": "bbc.com",
+          "published_on": "2023-10-26T23:12:14+00:00",
+          "cosine_similarity_score": 0.5483427009668231,
+          "jaccard_similarity_score": 0.2775735294117647
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "AXjcdIsBbDKhMTf1lSRj",
+        "url": "https://apnews.com/article/inflation-prices-federal-reserve-rates-economy-spending-657deb16464e6da9512291822839b342",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T12:42:09"
+      },
+      "related": [
+        {
+          "id": "Z3i_dIsBbDKhMTf1fRvS",
+          "url": "https://www.pbs.org/newshour/economy/u-s-consumers-keep-spending-even-in-the-face-of-persistent-inflation-and-high-interest-rates",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T16:23:03-04:00",
+          "cosine_similarity_score": 0.790408600613017,
+          "jaccard_similarity_score": 0.8935483870967742
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "B3jcdIsBbDKhMTf1riTj",
+        "url": "https://www.theguardian.com/us-news/2023/oct/27/george-santos-pleads-not-guilty-fraud-charges-new-york",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T16:42:37+00:00"
+      },
+      "related": [
+        {
+          "id": "RXjEdIsBbDKhMTf1XB1Q",
+          "url": "https://www.pbs.org/newshour/politics/george-santos-pleads-not-guilty-to-fraud-charges-in-new-york",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T13:58:49-04:00",
+          "cosine_similarity_score": 0.8191105415214609,
+          "jaccard_similarity_score": 0.6833855799373041
+        },
+        {
+          "id": "g3jCdIsBbDKhMTf1lhz1",
+          "url": "https://apnews.com/article/george-santos-fraud-arraignment-17e24ff38501a80c09e0ec517129d760",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:24:10",
+          "cosine_similarity_score": 0.8219230904930862,
+          "jaccard_similarity_score": 0.6888888888888889
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "MXjddIsBbDKhMTf1PSRT",
+        "url": "https://www.reuters.com/world/middle-east/eight-more-aid-trucks-expected-cross-into-gaza-friday-un-official-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T13:37:52+00:00"
+      },
+      "related": [
+        {
+          "id": "7HjKdIsBbDKhMTf1bB5m",
+          "url": "https://www.jpost.com/israel-news/article-770481",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T16:51:47+03:00",
+          "cosine_similarity_score": 0.8767119549422271,
+          "jaccard_similarity_score": 0.751004016064257
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "VXjddIsBbDKhMTf1ziQy",
+        "url": "https://www.theguardian.com/sport/2023/oct/27/pakistan-south-africa-cricket-world-cup-match-report",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T17:50:34+00:00"
+      },
+      "related": [
+        {
+          "id": "lXjedIsBbDKhMTf1sSRG",
+          "url": "https://www.reuters.com/sports/cricket/markram-fires-south-africa-edge-pakistan-world-cup-thriller-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T18:07:00+00:00",
+          "cosine_similarity_score": 0.5630876203771024,
+          "jaccard_similarity_score": 0.3608017817371938
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "YXjddIsBbDKhMTf1_iQz",
+        "url": "https://apnews.com/article/sickle-cell-gene-therapy-crispr-8ded5e3a35b30bd257ac756f8a223c51",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T15:47:14"
+      },
+      "related": [
+        {
+          "id": "pnjFdIsBbDKhMTf1VR0x",
+          "url": "https://www.nbcnews.com/health/health-news/new-cure-sickle-cell-disease-may-coming-fda-advisers-will-review-week-rcna122533",
+          "domain": "nbcnews.com",
+          "published_on": "2023-10-27T18:49:14+00:00",
+          "cosine_similarity_score": 0.9842052988758294,
+          "jaccard_similarity_score": 0.9425587467362925
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "enjedIsBbDKhMTf1WyTV",
+        "url": "https://www.theguardian.com/world/2023/oct/27/captain-of-football-team-thai-cave-rescue-suicide-at-uk-school-coroner-rules",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T18:13:57+00:00"
+      },
+      "related": [
+        {
+          "id": "zXi9dIsBbDKhMTf1oBpd",
+          "url": "https://www.bbc.com/news/uk-england-leicestershire-67242243",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T16:24:27+00:00",
+          "cosine_similarity_score": 0.6023567587430982,
+          "jaccard_similarity_score": 0.4192439862542955
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "f3jedIsBbDKhMTf1aSSr",
+        "url": "https://www.reuters.com/world/middle-east/gaza-aid-monitoring-must-change-allow-more-trucks-un-chief-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T18:13:15+00:00"
+      },
+      "related": [
+        {
+          "id": "IHjLdIsBbDKhMTf1hR_4",
+          "url": "https://www.jpost.com/breaking-news/article-770512",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T20:08:57+03:00",
+          "cosine_similarity_score": 0.8483787987093483,
+          "jaccard_similarity_score": 0.663716814159292
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "gnjedIsBbDKhMTf1cySp",
+        "url": "https://www.theguardian.com/sport/2023/oct/27/lucas-braathen-retires-from-skiing-slalom-champion",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T18:42:57+00:00"
+      },
+      "related": [
+        {
+          "id": "LHjldIsBbDKhMTf1hSYH",
+          "url": "https://www.reuters.com/sports/slalom-world-cup-champion-braathen-retires-23-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T14:57:35+00:00",
+          "cosine_similarity_score": 0.6845441103281347,
+          "jaccard_similarity_score": 0.4699453551912568
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "lXjedIsBbDKhMTf1sSRG",
+        "url": "https://www.reuters.com/sports/cricket/markram-fires-south-africa-edge-pakistan-world-cup-thriller-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T18:07:00+00:00"
+      },
+      "related": [
+        {
+          "id": "tni3dIsBbDKhMTf1mRm1",
+          "url": "https://www.aljazeera.com/sports/2023/10/27/south-africa-break-pakistan-hearts-with-one-wicket-cricket-world-cup-win",
+          "domain": "aljazeera.com",
+          "published_on": "2023-10-27T18:25:47",
+          "cosine_similarity_score": 0.68646315694111,
+          "jaccard_similarity_score": 0.5539568345323741
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "lnjedIsBbDKhMTf1sST9",
+        "url": "https://apnews.com/article/us-south-china-sea-military-jet-bomber-0af848de95db435276e7642a4a401939",
+        "domain": "apnews.com",
+        "published_on": "2023-10-27T04:26:21"
+      },
+      "related": [
+        {
+          "id": "wXi4dIsBbDKhMTf1QBk8",
+          "url": "https://www.aljazeera.com/news/2023/10/27/chinas-jet-comes-dangerously-close-to-us-bomber-over-south-china-sea-us",
+          "domain": "aljazeera.com",
+          "published_on": "2023-10-27T12:47:26",
+          "cosine_similarity_score": 0.652655734873337,
+          "jaccard_similarity_score": 0.5511551155115512
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "m3jedIsBbDKhMTf1xSRX",
+        "url": "https://www.thesun.co.uk/sport/24544212/hartlepool-united-oliver-finney-charged-rape/",
+        "domain": "thesun.co.uk",
+        "published_on": "2023-10-27T10:09:47+00:00"
+      },
+      "related": [
+        {
+          "id": "QXjldIsBbDKhMTf19SYM",
+          "url": "https://www.bbc.com/news/uk-england-tees-67231192",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T13:10:42+00:00",
+          "cosine_similarity_score": 0.5781905058928142,
+          "jaccard_similarity_score": 0.3846153846153846
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "oXjedIsBbDKhMTf12CTZ",
+        "url": "https://www.theguardian.com/us-news/2023/oct/27/jovenel-moise-haiti-president-assassination",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T19:17:11+00:00"
+      },
+      "related": [
+        {
+          "id": "jXjIdIsBbDKhMTf1rB6L",
+          "url": "https://apnews.com/article/haiti-moise-president-killed-miami-3236a13f74c3ff5fa5300c21e314dc81",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T17:26:28",
+          "cosine_similarity_score": 0.8454719087937865,
+          "jaccard_similarity_score": 0.6736842105263158
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "snjfdIsBbDKhMTf1FySe",
+        "url": "https://www.reuters.com/world/middle-east/prayers-protests-clashes-jerusalem-west-bank-gaza-war-rages-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T16:38:29+00:00"
+      },
+      "related": [
+        {
+          "id": "D3jLdIsBbDKhMTf1Oh_a",
+          "url": "https://www.jpost.com/israel-news/article-770505",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T19:16:10+03:00",
+          "cosine_similarity_score": 0.9166732977305605,
+          "jaccard_similarity_score": 0.7736625514403292
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "uHjfdIsBbDKhMTf1KCSN",
+        "url": "https://www.theguardian.com/us-news/2023/oct/27/lawsuit-dismissed-texas-greg-abbott-transport-immigration",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T20:21:02+00:00"
+      },
+      "related": [
+        {
+          "id": "h3jedIsBbDKhMTf1hiQI",
+          "url": "https://www.reuters.com/world/us/us-appeals-court-tosses-lawsuit-over-texas-migrant-transportation-bar-2023-10-27/",
+          "domain": "reuters.com",
+          "published_on": "2023-10-27T20:31:20+00:00",
+          "cosine_similarity_score": 0.5465672103123288,
+          "jaccard_similarity_score": 0.4018264840182648
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "xHjfdIsBbDKhMTf1WyTj",
+        "url": "https://www.bbc.com/news/world-us-canada-67246163",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T23:08:45+00:00"
+      },
+      "related": [
+        {
+          "id": "Y3jCdIsBbDKhMTf1LRza",
+          "url": "https://www.cbsnews.com/news/missing-sailor-found-alive-life-raft-washington-coast-coast-guard/",
+          "domain": "cbsnews.com",
+          "published_on": "2023-10-27T14:46:00-04:00",
+          "cosine_similarity_score": 0.5061710561904108,
+          "jaccard_similarity_score": 0.375
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "33jfdIsBbDKhMTf1uiT9",
+        "url": "https://www.bbc.com/news/world-europe-67238572",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T18:09:16+00:00"
+      },
+      "related": [
+        {
+          "id": "1njVdIsBbDKhMTf1QyHi",
+          "url": "https://apnews.com/article/spain-catholic-church-sexual-abuse-clergy-3544eff34663581c46b2fea110d31256",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T17:19:34",
+          "cosine_similarity_score": 0.5672748935026353,
+          "jaccard_similarity_score": 0.2222222222222222
+        },
+        {
+          "id": "uXi3dIsBbDKhMTf1wxnD",
+          "url": "https://www.aljazeera.com/news/2023/10/27/spanish-clergy-sexually-abused-more-than-200000-children-commission-finds",
+          "domain": "aljazeera.com",
+          "published_on": "2023-10-27T20:27:43",
+          "cosine_similarity_score": 0.5424710758891628,
+          "jaccard_similarity_score": 0.22527472527472525
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "73jfdIsBbDKhMTf18CSH",
+        "url": "https://www.reuters.com/world/middle-east/explosion-heard-egyptian-red-sea-town-near-israeli-border-witness-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T21:19:32+00:00"
+      },
+      "related": [
+        {
+          "id": "BXjGdIsBbDKhMTf1ax4t",
+          "url": "https://www.jpost.com/breaking-news/article-770414",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T03:28:19+03:00",
+          "cosine_similarity_score": 0.698929020416635,
+          "jaccard_similarity_score": 0.4426751592356688
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "9njgdIsBbDKhMTf1DCSp",
+        "url": "https://www.theguardian.com/world/2023/oct/27/israel-intensifies-gaza-assault-and-severs-communications-across-territory",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T22:24:10+00:00"
+      },
+      "related": [
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.6673762421703554,
+          "jaccard_similarity_score": 0.16112084063047283
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "GnjgdIsBbDKhMTf1fyV5",
+        "url": "https://www.bbc.com/news/world-us-canada-67243100",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T19:07:01+00:00"
+      },
+      "related": [
+        {
+          "id": "oXjJdIsBbDKhMTf1Ax5A",
+          "url": "https://news.sky.com/story/ivanka-trump-must-give-evidence-against-her-father-donald-trump-in-fraud-case-judge-rules-12994128",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T16:31:00+00:00",
+          "cosine_similarity_score": 0.6118882030655362,
+          "jaccard_similarity_score": 0.2676923076923077
+        },
+        {
+          "id": "s3jAdIsBbDKhMTf1Xxuh",
+          "url": "https://www.pbs.org/newshour/politics/donald-trump-is-set-to-testify-nov-6-in-civil-fraud-trial-ivanka-trump-also-called-on-to-testify",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T18:58:01-04:00",
+          "cosine_similarity_score": 0.5901082688474415,
+          "jaccard_similarity_score": 0.22025316455696198
+        },
+        {
+          "id": "xXjUdIsBbDKhMTf17yHq",
+          "url": "https://apnews.com/article/donald-trump-fraud-lawsuit-trial-ivanka-trump-testimony-c7018a92f3a2cb2496a55ad1cacf2412",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T04:12:03",
+          "cosine_similarity_score": 0.5765991774782322,
+          "jaccard_similarity_score": 0.2230971128608924
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "I3jgdIsBbDKhMTf1oSVP",
+        "url": "https://www.reuters.com/sports/soccer/spains-hermoso-returns-grab-last-gasp-winner-against-italy-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T19:59:00+00:00"
+      },
+      "related": [
+        {
+          "id": "vHjfdIsBbDKhMTf1NyS4",
+          "url": "https://www.theguardian.com/football/2023/oct/27/jenni-hermoso-makes-triumphant-return-for-spain-with-late-winner-in-italy",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T20:40:23+00:00",
+          "cosine_similarity_score": 0.5110434584121222,
+          "jaccard_similarity_score": 0.29441624365482233
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "KXjgdIsBbDKhMTf1sCXU",
+        "url": "https://www.theguardian.com/world/2023/oct/28/israel-and-hamas-at-war-what-we-know-on-day-22",
+        "domain": "theguardian.com",
+        "published_on": "2023-10-27T23:32:23+00:00"
+      },
+      "related": [
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.6668005428178218,
+          "jaccard_similarity_score": 0.11865482233502533
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "ZHjhdIsBbDKhMTf1jSU1",
+        "url": "https://www.bbc.com/news/business-67242519",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T20:53:34+00:00"
+      },
+      "related": [
+        {
+          "id": "7njfdIsBbDKhMTf17iSl",
+          "url": "https://www.theguardian.com/business/live/2023/oct/27/sam-bankman-fried-testify-ftx-trial-live",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T21:55:10+00:00",
+          "cosine_similarity_score": 0.6609867565742616,
+          "jaccard_similarity_score": 0.15051020408163263
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "dXjhdIsBbDKhMTf14SVI",
+        "url": "https://www.reuters.com/world/europe/pope-orders-reopening-case-prominent-priest-accused-abuse-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T16:48:48+00:00"
+      },
+      "related": [
+        {
+          "id": "5njKdIsBbDKhMTf1Qx7m",
+          "url": "https://www.jpost.com/christianworld/article-770476",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T16:22:07+03:00",
+          "cosine_similarity_score": 0.8475873371267781,
+          "jaccard_similarity_score": 0.6628787878787878
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "hHjidIsBbDKhMTf1OyXc",
+        "url": "https://www.bbc.com/news/uk-wales-67240990",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T14:24:32+00:00"
+      },
+      "related": [
+        {
+          "id": "Z3jHdIsBbDKhMTf1-B4x",
+          "url": "https://news.sky.com/story/gang-kidnapped-and-tortured-men-to-hand-over-cash-and-jewellery-12993892",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T11:54:00+00:00",
+          "cosine_similarity_score": 0.6594398841901018,
+          "jaccard_similarity_score": 0.4169096209912536
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "tXjjdIsBbDKhMTf1MiU9",
+        "url": "https://www.bbc.com/news/uk-england-nottinghamshire-67238044",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T12:54:24+00:00"
+      },
+      "related": [
+        {
+          "id": "_HjBdIsBbDKhMTf1ERvD",
+          "url": "https://news.sky.com/story/mindless-josh-redfern-jailed-for-stealing-bus-in-nottingham-and-taking-it-on-10-mile-joyride-12994116",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T16:18:00+00:00",
+          "cosine_similarity_score": 0.5318877662654641,
+          "jaccard_similarity_score": 0.3876651982378855
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "vXjjdIsBbDKhMTf1ViVm",
+        "url": "https://www.reuters.com/world/europe/zelenskiy-says-russia-loses-at-least-brigade-trying-take-avdiivka-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T13:29:21+00:00"
+      },
+      "related": [
+        {
+          "id": "YHjddIsBbDKhMTf1-iQ9",
+          "url": "https://www.theguardian.com/world/live/2023/oct/27/russia-ukraine-war-live-russia-executing-soldiers-who-refuse-to-follow-orders-white-house-says",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T18:00:24+00:00",
+          "cosine_similarity_score": 0.5085989497283275,
+          "jaccard_similarity_score": 0.1454965357967667
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "6HjkdIsBbDKhMTf1MCWs",
+        "url": "https://www.reuters.com/sports/cricket/andrew-join-ecb-board-director-professional-game-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T14:04:43+00:00"
+      },
+      "related": [
+        {
+          "id": "unjUdIsBbDKhMTf1xCGG",
+          "url": "https://www.bbc.com/sport/cricket/67224232",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T12:03:26+00:00",
+          "cosine_similarity_score": 0.536281105178685,
+          "jaccard_similarity_score": 0.19428571428571428
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "_njkdIsBbDKhMTf1oyUb",
+        "url": "https://www.reuters.com/world/uk/london-hate-crimes-rise-again-wake-middle-east-conflict-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T14:22:47+00:00"
+      },
+      "related": [
+        {
+          "id": "-XjKdIsBbDKhMTf1zR6S",
+          "url": "https://www.jpost.com/israel-news/article-770486",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T17:59:16+03:00",
+          "cosine_similarity_score": 0.8792325419307645,
+          "jaccard_similarity_score": 0.7651821862348178
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "D3jkdIsBbDKhMTf17iZk",
+        "url": "https://www.reuters.com/world/europe/iceland-hit-by-thousands-small-earthquakes-volcano-warning-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T14:33:01+00:00"
+      },
+      "related": [
+        {
+          "id": "q3jbdIsBbDKhMTf1ZSOY",
+          "url": "https://www.theguardian.com/world/2023/oct/27/iceland-earthquakes-next-volcanic-eruption",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T15:37:54+00:00",
+          "cosine_similarity_score": 0.7737788570957657,
+          "jaccard_similarity_score": 0.6403940886699507
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "InjldIsBbDKhMTf1Wiak",
+        "url": "https://www.reuters.com/world/middle-east/israeli-military-says-hamas-hiding-tunnels-operations-centres-gaza-hospital-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T15:00:48+00:00"
+      },
+      "related": [
+        {
+          "id": "_Hj4dIsBbDKhMTf1siiA",
+          "url": "https://www.thesun.co.uk/news/24549505/israel-reveal-hamas-underground-hq-beneath-gaza-hospital/",
+          "domain": "thesun.co.uk",
+          "published_on": "2023-10-27T16:42:56+00:00",
+          "cosine_similarity_score": 0.6450277943188502,
+          "jaccard_similarity_score": 0.32894736842105265
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "LHjldIsBbDKhMTf1hSYH",
+        "url": "https://www.reuters.com/sports/slalom-world-cup-champion-braathen-retires-23-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T14:57:35+00:00"
+      },
+      "related": [
+        {
+          "id": "gnjedIsBbDKhMTf1cySp",
+          "url": "https://www.theguardian.com/sport/2023/oct/27/lucas-braathen-retires-from-skiing-slalom-champion",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T18:42:57+00:00",
+          "cosine_similarity_score": 0.6845441103281342,
+          "jaccard_similarity_score": 0.4699453551912568
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "PXjldIsBbDKhMTf14yZj",
+        "url": "https://www.bbc.com/news/uk-england-somerset-67236879",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T08:29:01+00:00"
+      },
+      "related": [
+        {
+          "id": "O3jHdIsBbDKhMTf1RB44",
+          "url": "https://news.sky.com/story/man-charged-with-murder-after-woman-found-dead-in-somerset-holiday-park-12993805",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T09:40:00+00:00",
+          "cosine_similarity_score": 0.5095621614795113,
+          "jaccard_similarity_score": 0.392
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "QXjldIsBbDKhMTf19SYM",
+        "url": "https://www.bbc.com/news/uk-england-tees-67231192",
+        "domain": "bbc.com",
+        "published_on": "2023-10-27T13:10:42+00:00"
+      },
+      "related": [
+        {
+          "id": "m3jedIsBbDKhMTf1xSRX",
+          "url": "https://www.thesun.co.uk/sport/24544212/hartlepool-united-oliver-finney-charged-rape/",
+          "domain": "thesun.co.uk",
+          "published_on": "2023-10-27T10:09:47+00:00",
+          "cosine_similarity_score": 0.5781905058928144,
+          "jaccard_similarity_score": 0.3846153846153846
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "dXjmdIsBbDKhMTf1-ibo",
+        "url": "https://www.reuters.com/world/middle-east/israeli-forces-kill-four-palestinians-west-bank-clashes-wafa-agency-says-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T13:58:36+00:00"
+      },
+      "related": [
+        {
+          "id": "DXi5dIsBbDKhMTf1_Rpe",
+          "url": "https://www.aljazeera.com/news/2023/10/27/israeli-forces-kill-four-palestinians-in-occupied-west-bank-wafa",
+          "domain": "aljazeera.com",
+          "published_on": "2023-10-27T10:11:36",
+          "cosine_similarity_score": 0.6292797355248623,
+          "jaccard_similarity_score": 0.3696682464454977
+        },
+        {
+          "id": "D3jLdIsBbDKhMTf1Oh_a",
+          "url": "https://www.jpost.com/israel-news/article-770505",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T19:16:10+03:00",
+          "cosine_similarity_score": 0.5872743491978963,
+          "jaccard_similarity_score": 0.3023255813953488
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "eXjndIsBbDKhMTf1Ciat",
+        "url": "https://www.reuters.com/world/europe/ukrainian-pro-russian-politician-tsaryov-intensive-care-after-being-shot-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T18:59:10+00:00"
+      },
+      "related": [
+        {
+          "id": "l3jAdIsBbDKhMTf1Dxu-",
+          "url": "https://news.sky.com/story/oleg-tsaryov-pro-russia-former-ukrainian-politician-shot-and-wounded-in-crimea-attack-12994414",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T20:27:00+00:00",
+          "cosine_similarity_score": 0.6203086132662042,
+          "jaccard_similarity_score": 0.4538258575197889
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "l3jndIsBbDKhMTf1qSYE",
+        "url": "https://www.reuters.com/world/behind-bidens-shift-israel-hamas-war-gaza-deaths-international-pressure-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T05:09:19+00:00"
+      },
+      "related": [
+        {
+          "id": "LHjGdIsBbDKhMTf1_h4t",
+          "url": "https://www.jpost.com/american-politics/article-770430",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T08:52:12+03:00",
+          "cosine_similarity_score": 0.8753542967027487,
+          "jaccard_similarity_score": 0.7693761814744802
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "1njodIsBbDKhMTf15Ca0",
+        "url": "https://www.reuters.com/world/us-puts-new-sanctions-hamas-members-irans-revolutionary-guard-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T17:53:14+00:00"
+      },
+      "related": [
+        {
+          "id": "lXjIdIsBbDKhMTf1xx4u",
+          "url": "https://www.jpost.com/international/article-770454",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T13:12:51+03:00",
+          "cosine_similarity_score": 0.8448706071916093,
+          "jaccard_similarity_score": 0.6517241379310346
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "GnjqdIsBbDKhMTf1gydh",
+        "url": "https://www.reuters.com/world/uk/london-mayors-call-ceasefire-gaza-puts-pressure-labour-leader-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T12:54:28+00:00"
+      },
+      "related": [
+        {
+          "id": "r3jJdIsBbDKhMTf1Px4J",
+          "url": "https://www.jpost.com/middle-east/article-770462",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T14:19:36+03:00",
+          "cosine_similarity_score": 0.8226003886278994,
+          "jaccard_similarity_score": 0.6466165413533835
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "T3jsdIsBbDKhMTf1Didl",
+        "url": "https://www.reuters.com/sports/nfl/josh-allen-3-tds-bills-fend-off-bucs-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T03:38:17+00:00"
+      },
+      "related": [
+        {
+          "id": "6njKdIsBbDKhMTf1WB7e",
+          "url": "https://apnews.com/article/buccaneers-bills-81c41ce48bde90357768807f1ba2f711",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T03:42:42",
+          "cosine_similarity_score": 0.5276668284350489,
+          "jaccard_similarity_score": 0.17657992565055758
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "bnjtdIsBbDKhMTf1CSdz",
+        "url": "https://www.thesun.co.uk/health/24548577/safety-alert-fake-weight-loss-jabs-ozempic-wegovy-comas/",
+        "domain": "thesun.co.uk",
+        "published_on": "2023-10-27T15:27:08+00:00"
+      },
+      "related": [
+        {
+          "id": "MniKbYsBbDKhMTf1eBfn",
+          "url": "https://www.theguardian.com/society/2023/oct/26/uk-public-warned-over-dangers-of-fake-weight-loss-medication-pens",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-26T18:19:14+00:00",
+          "cosine_similarity_score": 0.7017313135493612,
+          "jaccard_similarity_score": 0.47126436781609193
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "e3jtdIsBbDKhMTf1YCfb",
+        "url": "https://www.reuters.com/world/middle-east/israeli-poll-finds-49-support-holding-off-gaza-invasion-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T05:07:57+00:00"
+      },
+      "related": [
+        {
+          "id": "H3jGdIsBbDKhMTf1vx5N",
+          "url": "https://www.jpost.com/israel-news/article-770428",
+          "domain": "jpost.com",
+          "published_on": "2023-10-27T08:13:51+03:00",
+          "cosine_similarity_score": 0.8506836919311894,
+          "jaccard_similarity_score": 0.7526881720430108
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "hXjtdIsBbDKhMTf1rCeo",
+        "url": "https://www.reuters.com/sports/nhl-roundup-penguins-end-avs-record-road-run-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T05:16:54+00:00"
+      },
+      "related": [
+        {
+          "id": "wnjUdIsBbDKhMTf14iHp",
+          "url": "https://apnews.com/sports/pittsburgh-penguins-4c7f464a405e6d033459e4676a498ff9",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T02:44:53",
+          "cosine_similarity_score": 0.7445510803602362,
+          "jaccard_similarity_score": 0.3580980683506686
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "oHjudIsBbDKhMTf1aCfw",
+        "url": "https://www.reuters.com/sports/tahiti-surf-judging-tower-sparks-protests-against-olympic-kooks-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T05:49:13+00:00"
+      },
+      "related": [
+        {
+          "id": "fHjXdIsBbDKhMTf1ViIB",
+          "url": "https://www.theguardian.com/sport/2023/oct/27/tahiti-surf-tower-sparks-protests-against-olympics-kooks-before-paris-2024",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T12:03:16+00:00",
+          "cosine_similarity_score": 0.856704149214843,
+          "jaccard_similarity_score": 0.6491228070175439
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "s3judIsBbDKhMTf19SeV",
+        "url": "https://www.reuters.com/world/middle-east/israeli-bombing-gaza-has-killed-50-hostages-hamas-official-tells-russian-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T13:13:12+00:00"
+      },
+      "related": [
+        {
+          "id": "AXhobYsBbDKhMTf1Pw-m",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-after-israeli-troops-briefly-enter-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-26T10:47:32-04:00",
+          "cosine_similarity_score": 0.5125496650902797,
+          "jaccard_similarity_score": 0.10640066500415624
+        },
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5016531343092652,
+          "jaccard_similarity_score": 0.08853503184713374
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "v3jvdIsBbDKhMTf1UieH",
+        "url": "https://www.reuters.com/sports/soccer/saudi-side-al-qadsiah-part-ways-with-manager-fowler-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T07:01:05+00:00"
+      },
+      "related": [
+        {
+          "id": "vHjUdIsBbDKhMTf1yiEW",
+          "url": "https://www.theguardian.com/football/2023/oct/27/robbie-fowler-sacked-saudi-arabian-club-al-qadsiah-after-four-months",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T09:26:09+00:00",
+          "cosine_similarity_score": 0.6452016477999171,
+          "jaccard_similarity_score": 0.4304635761589404
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "dHj0dIsBbDKhMTf1cCjS",
+        "url": "https://www.reuters.com/sports/motor-sports/hamilton-says-unchecked-cars-were-also-illegal-austin-2023-10-27/",
+        "domain": "reuters.com",
+        "published_on": "2023-10-27T00:26:48+00:00"
+      },
+      "related": [
+        {
+          "id": "aHj8dIsBbDKhMTf1mil0",
+          "url": "https://www.bbc.com/sport/formula1/67235024",
+          "domain": "bbc.com",
+          "published_on": "2023-10-26T22:42:49+00:00",
+          "cosine_similarity_score": 0.541104123768383,
+          "jaccard_similarity_score": 0.2382075471698113
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "r3j2dIsBbDKhMTf1bSg2",
+        "url": "https://www.thesun.co.uk/news/24553265/humza-yousaf-first-minister-gaza-israel-family-bombing-hamas/",
+        "domain": "thesun.co.uk",
+        "published_on": "2023-10-27T21:52:10+00:00"
+      },
+      "related": [
+        {
+          "id": "63jAdIsBbDKhMTf15Rs8",
+          "url": "https://news.sky.com/story/scotlands-humza-yousaf-has-lost-contact-with-wifes-family-trapped-in-gaza-12994329",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T19:23:00+00:00",
+          "cosine_similarity_score": 0.5342481965539497,
+          "jaccard_similarity_score": 0.28503562945368166
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "sXj2dIsBbDKhMTf1jyjF",
+        "url": "https://www.thesun.co.uk/news/24552647/charity-shop-customers-donating-sex-toys/",
+        "domain": "thesun.co.uk",
+        "published_on": "2023-10-27T21:56:28+00:00"
+      },
+      "related": [
+        {
+          "id": "sHhqbYsBbDKhMTf1zg9r",
+          "url": "https://news.sky.com/story/charity-shop-in-swansea-asks-people-not-to-donate-sex-toys-12993282",
+          "domain": "sky.com",
+          "published_on": "2023-10-26T16:13:00+00:00",
+          "cosine_similarity_score": 0.5357761878712277,
+          "jaccard_similarity_score": 0.3267326732673267
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "w3j3dIsBbDKhMTf1Eyh4",
+        "url": "https://www.thesun.co.uk/news/24552537/nigel-farage-whitewash-review-coutts-debanking/",
+        "domain": "thesun.co.uk",
+        "published_on": "2023-10-27T21:35:24+00:00"
+      },
+      "related": [
+        {
+          "id": "1HjbdIsBbDKhMTf1-SPz",
+          "url": "https://www.theguardian.com/business/2023/oct/27/natwest-decision-to-close-nigel-farage-bank-accounts-was-lawful-says-report-coutts",
+          "domain": "theguardian.com",
+          "published_on": "2023-10-27T16:10:10+00:00",
+          "cosine_similarity_score": 0.5607558933045453,
+          "jaccard_similarity_score": 0.22287390029325516
+        },
+        {
+          "id": "E3jZdIsBbDKhMTf1DCOK",
+          "url": "https://apnews.com/article/natwest-coutts-bank-farage-debanking-9a1bdb045f4160da7fa3f70b66772ab5",
+          "domain": "apnews.com",
+          "published_on": "2023-10-27T10:48:13",
+          "cosine_similarity_score": 0.5761867162574554,
+          "jaccard_similarity_score": 0.29268292682926833
+        },
+        {
+          "id": "TXjmdIsBbDKhMTf1Nibr",
+          "url": "https://www.bbc.com/news/business-67236693",
+          "domain": "bbc.com",
+          "published_on": "2023-10-27T18:20:50+00:00",
+          "cosine_similarity_score": 0.6339836995865111,
+          "jaccard_similarity_score": 0.18204488778054861
+        },
+        {
+          "id": "DHjGdIsBbDKhMTf1gB5H",
+          "url": "https://news.sky.com/story/serious-failings-in-decision-to-close-nigel-farage-account-review-finds-12993655",
+          "domain": "sky.com",
+          "published_on": "2023-10-27T05:14:00+00:00",
+          "cosine_similarity_score": 0.5098873894622946,
+          "jaccard_similarity_score": 0.15633423180592987
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "_Hj4dIsBbDKhMTf1siiA",
+        "url": "https://www.thesun.co.uk/news/24549505/israel-reveal-hamas-underground-hq-beneath-gaza-hospital/",
+        "domain": "thesun.co.uk",
+        "published_on": "2023-10-27T16:42:56+00:00"
+      },
+      "related": [
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5187712294281449,
+          "jaccard_similarity_score": 0.10006176652254473
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "NXj5dIsBbDKhMTf15ikZ",
+        "url": "https://www.thesun.co.uk/news/24552353/israel-hamas-hospital-patients-shields-tel-aviv-bunker-bombs/",
+        "domain": "thesun.co.uk",
+        "published_on": "2023-10-27T21:00:35+00:00"
+      },
+      "related": [
+        {
+          "id": "1HjDdIsBbDKhMTf1iBzz",
+          "url": "https://www.pbs.org/newshour/world/live-updates-whats-happening-in-the-israel-hamas-war-as-israeli-forces-continue-raids-into-gaza",
+          "domain": "pbs.org",
+          "published_on": "2023-10-27T10:04:43-04:00",
+          "cosine_similarity_score": 0.5119227953435105,
+          "jaccard_similarity_score": 0.09500308451573103
+        }
+      ]
+    }
+  ]
+}
