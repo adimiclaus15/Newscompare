@@ -13,7 +13,7 @@ first_digit = N / (10 ** nr_digits)
 
 k_min = [1, 1, 1, 1, 1]
 k_max = [10, 169, 88, 39, 36]
-gamma = 1.2
+gamma = 1.1
 T = 5
 
 f = open("date10.in", "w")
